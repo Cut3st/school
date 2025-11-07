@@ -1,0 +1,466 @@
+================================================================================
+SC1003 TEAM VALIDATION LOG
+================================================================================
+Timestamp: 2025-10-29 03:02:07
+CSV File:   C:/Users/User/OneDrive/Documents/GitHub/learning_python/FDBA_Team1_JohnSmith.csv
+Team Size:  7
+Strictness: NIGHTMARE
+Score:      100.0% | Grade: A+ (Excellent)
+Issues:     394 (🚨0/⚠️240/ℹ️154)
+================================================================================
+
+[SUMMARY REPORT]
+--------------------------------------------------------------------------------
+======================================================================
+TEAM ALLOCATION VALIDATION SUMMARY (NIGHTMARE MODE)
+======================================================================
+
+✓ Strictness Level: NIGHTMARE
+✓ Total Issues Found: 394
+
+Total Students: 6000
+Total Teams:    840
+Expected Size:  7
+
+TEAM SIZE DISTRIBUTION:
+----------------------------------------------------------------------
+✓ Size 7:  720 teams ( 85.7%)
+⚠ Size 8:  120 teams ( 14.3%)
+
+======================================================================
+BALANCE SUMMARY
+======================================================================
+
+GENDER BALANCE:
+  ✓ Balanced:    840 teams (100.0%)
+  ✗ Imbalanced:    0 teams (  0.0%)
+
+SCHOOL DIVERSITY:
+  ✓ Balanced:    840 teams (100.0%)
+  ✗ Imbalanced:    0 teams (  0.0%)
+
+CGPA STATISTICS:
+  Average team mean: 4.088
+  Average team std:  0.106
+  Range: 3.994 to 4.236
+
+======================================================================
+OVERALL QUALITY SCORE
+======================================================================
+
+Gender Balance:     100.0%
+School Diversity:   100.0%
+CGPA Distribution:  100.0%
+----------------------------------------------------------------------
+FINAL SCORE:        100.0%
+GRADE:              A+ (Excellent)
+
+
+[CRITICAL ISSUES REPORT]
+--------------------------------------------------------------------------------
+======================================================================
+ALL ISSUES FOUND (394 total)
+======================================================================
+
+⚠️ WARNING ISSUES (240):
+----------------------------------------------------------------------
+  1. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-1, Team 1)
+  2. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-10, Team 8)
+  3. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-100, Team 15)
+  4. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-101, Team 22)
+  5. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-102, Team 29)
+  6. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-103, Team 36)
+  7. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-104, Team 43)
+  8. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-105, Team 50)
+  9. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-106, Team 57)
+ 10. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-107, Team 64)
+ 11. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-108, Team 71)
+ 12. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-109, Team 78)
+ 13. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-11, Team 85)
+ 14. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-110, Team 92)
+ 15. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-111, Team 99)
+ 16. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-112, Team 106)
+ 17. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-113, Team 113)
+ 18. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-114, Team 120)
+ 19. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-115, Team 127)
+ 20. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-116, Team 134)
+ 21. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-117, Team 141)
+ 22. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-118, Team 148)
+ 23. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-119, Team 155)
+ 24. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-12, Team 162)
+ 25. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-120, Team 169)
+ 26. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-13, Team 176)
+ 27. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-14, Team 183)
+ 28. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-15, Team 190)
+ 29. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-16, Team 197)
+ 30. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-17, Team 204)
+ 31. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-18, Team 211)
+ 32. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-19, Team 218)
+ 33. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-2, Team 225)
+ 34. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-20, Team 232)
+ 35. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-21, Team 239)
+ 36. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-22, Team 246)
+ 37. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-23, Team 253)
+ 38. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-24, Team 260)
+ 39. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-25, Team 267)
+ 40. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-26, Team 274)
+ 41. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-27, Team 281)
+ 42. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-28, Team 288)
+ 43. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-29, Team 295)
+ 44. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-3, Team 302)
+ 45. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-30, Team 309)
+ 46. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-31, Team 316)
+ 47. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-32, Team 323)
+ 48. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-33, Team 330)
+ 49. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-34, Team 337)
+ 50. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-35, Team 344)
+ 51. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-36, Team 351)
+ 52. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-37, Team 358)
+ 53. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-38, Team 365)
+ 54. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-39, Team 372)
+ 55. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-4, Team 379)
+ 56. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-40, Team 386)
+ 57. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-41, Team 393)
+ 58. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-42, Team 400)
+ 59. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-43, Team 407)
+ 60. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-44, Team 414)
+ 61. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-45, Team 421)
+ 62. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-46, Team 428)
+ 63. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-47, Team 435)
+ 64. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-48, Team 442)
+ 65. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-49, Team 449)
+ 66. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-5, Team 456)
+ 67. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-50, Team 463)
+ 68. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-51, Team 470)
+ 69. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-52, Team 477)
+ 70. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-53, Team 484)
+ 71. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-54, Team 491)
+ 72. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-55, Team 498)
+ 73. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-56, Team 505)
+ 74. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-57, Team 512)
+ 75. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-58, Team 519)
+ 76. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-59, Team 526)
+ 77. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-6, Team 533)
+ 78. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-60, Team 540)
+ 79. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-61, Team 547)
+ 80. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-62, Team 554)
+ 81. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-63, Team 561)
+ 82. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-64, Team 568)
+ 83. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-65, Team 575)
+ 84. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-66, Team 582)
+ 85. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-67, Team 589)
+ 86. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-68, Team 596)
+ 87. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-69, Team 603)
+ 88. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-7, Team 610)
+ 89. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-70, Team 617)
+ 90. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-71, Team 624)
+ 91. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-72, Team 631)
+ 92. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-73, Team 638)
+ 93. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-74, Team 645)
+ 94. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-75, Team 652)
+ 95. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-76, Team 659)
+ 96. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-77, Team 666)
+ 97. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-78, Team 673)
+ 98. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-79, Team 680)
+ 99. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-8, Team 687)
+100. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-80, Team 694)
+101. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-81, Team 701)
+102. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-82, Team 708)
+103. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-83, Team 715)
+104. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-84, Team 722)
+105. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-85, Team 729)
+106. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-86, Team 736)
+107. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-87, Team 743)
+108. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-88, Team 750)
+109. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-89, Team 757)
+110. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-9, Team 764)
+111. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-90, Team 771)
+112. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-91, Team 778)
+113. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-92, Team 785)
+114. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-93, Team 792)
+115. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-94, Team 799)
+116. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-95, Team 806)
+117. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-96, Team 813)
+118. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-97, Team 820)
+119. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-98, Team 827)
+120. [Team Formation] Team size 8 differs from expected 7 (Tutorial G-99, Team 834)
+121. [Team Formation] Tutorial G-1: Expected 8 teams, got 7
+122. [Team Formation] Tutorial G-10: Expected 8 teams, got 7
+123. [Team Formation] Tutorial G-100: Expected 8 teams, got 7
+124. [Team Formation] Tutorial G-101: Expected 8 teams, got 7
+125. [Team Formation] Tutorial G-102: Expected 8 teams, got 7
+126. [Team Formation] Tutorial G-103: Expected 8 teams, got 7
+127. [Team Formation] Tutorial G-104: Expected 8 teams, got 7
+128. [Team Formation] Tutorial G-105: Expected 8 teams, got 7
+129. [Team Formation] Tutorial G-106: Expected 8 teams, got 7
+130. [Team Formation] Tutorial G-107: Expected 8 teams, got 7
+131. [Team Formation] Tutorial G-108: Expected 8 teams, got 7
+132. [Team Formation] Tutorial G-109: Expected 8 teams, got 7
+133. [Team Formation] Tutorial G-11: Expected 8 teams, got 7
+134. [Team Formation] Tutorial G-110: Expected 8 teams, got 7
+135. [Team Formation] Tutorial G-111: Expected 8 teams, got 7
+136. [Team Formation] Tutorial G-112: Expected 8 teams, got 7
+137. [Team Formation] Tutorial G-113: Expected 8 teams, got 7
+138. [Team Formation] Tutorial G-114: Expected 8 teams, got 7
+139. [Team Formation] Tutorial G-115: Expected 8 teams, got 7
+140. [Team Formation] Tutorial G-116: Expected 8 teams, got 7
+141. [Team Formation] Tutorial G-117: Expected 8 teams, got 7
+142. [Team Formation] Tutorial G-118: Expected 8 teams, got 7
+143. [Team Formation] Tutorial G-119: Expected 8 teams, got 7
+144. [Team Formation] Tutorial G-12: Expected 8 teams, got 7
+145. [Team Formation] Tutorial G-120: Expected 8 teams, got 7
+146. [Team Formation] Tutorial G-13: Expected 8 teams, got 7
+147. [Team Formation] Tutorial G-14: Expected 8 teams, got 7
+148. [Team Formation] Tutorial G-15: Expected 8 teams, got 7
+149. [Team Formation] Tutorial G-16: Expected 8 teams, got 7
+150. [Team Formation] Tutorial G-17: Expected 8 teams, got 7
+151. [Team Formation] Tutorial G-18: Expected 8 teams, got 7
+152. [Team Formation] Tutorial G-19: Expected 8 teams, got 7
+153. [Team Formation] Tutorial G-2: Expected 8 teams, got 7
+154. [Team Formation] Tutorial G-20: Expected 8 teams, got 7
+155. [Team Formation] Tutorial G-21: Expected 8 teams, got 7
+156. [Team Formation] Tutorial G-22: Expected 8 teams, got 7
+157. [Team Formation] Tutorial G-23: Expected 8 teams, got 7
+158. [Team Formation] Tutorial G-24: Expected 8 teams, got 7
+159. [Team Formation] Tutorial G-25: Expected 8 teams, got 7
+160. [Team Formation] Tutorial G-26: Expected 8 teams, got 7
+161. [Team Formation] Tutorial G-27: Expected 8 teams, got 7
+162. [Team Formation] Tutorial G-28: Expected 8 teams, got 7
+163. [Team Formation] Tutorial G-29: Expected 8 teams, got 7
+164. [Team Formation] Tutorial G-3: Expected 8 teams, got 7
+165. [Team Formation] Tutorial G-30: Expected 8 teams, got 7
+166. [Team Formation] Tutorial G-31: Expected 8 teams, got 7
+167. [Team Formation] Tutorial G-32: Expected 8 teams, got 7
+168. [Team Formation] Tutorial G-33: Expected 8 teams, got 7
+169. [Team Formation] Tutorial G-34: Expected 8 teams, got 7
+170. [Team Formation] Tutorial G-35: Expected 8 teams, got 7
+171. [Team Formation] Tutorial G-36: Expected 8 teams, got 7
+172. [Team Formation] Tutorial G-37: Expected 8 teams, got 7
+173. [Team Formation] Tutorial G-38: Expected 8 teams, got 7
+174. [Team Formation] Tutorial G-39: Expected 8 teams, got 7
+175. [Team Formation] Tutorial G-4: Expected 8 teams, got 7
+176. [Team Formation] Tutorial G-40: Expected 8 teams, got 7
+177. [Team Formation] Tutorial G-41: Expected 8 teams, got 7
+178. [Team Formation] Tutorial G-42: Expected 8 teams, got 7
+179. [Team Formation] Tutorial G-43: Expected 8 teams, got 7
+180. [Team Formation] Tutorial G-44: Expected 8 teams, got 7
+181. [Team Formation] Tutorial G-45: Expected 8 teams, got 7
+182. [Team Formation] Tutorial G-46: Expected 8 teams, got 7
+183. [Team Formation] Tutorial G-47: Expected 8 teams, got 7
+184. [Team Formation] Tutorial G-48: Expected 8 teams, got 7
+185. [Team Formation] Tutorial G-49: Expected 8 teams, got 7
+186. [Team Formation] Tutorial G-5: Expected 8 teams, got 7
+187. [Team Formation] Tutorial G-50: Expected 8 teams, got 7
+188. [Team Formation] Tutorial G-51: Expected 8 teams, got 7
+189. [Team Formation] Tutorial G-52: Expected 8 teams, got 7
+190. [Team Formation] Tutorial G-53: Expected 8 teams, got 7
+191. [Team Formation] Tutorial G-54: Expected 8 teams, got 7
+192. [Team Formation] Tutorial G-55: Expected 8 teams, got 7
+193. [Team Formation] Tutorial G-56: Expected 8 teams, got 7
+194. [Team Formation] Tutorial G-57: Expected 8 teams, got 7
+195. [Team Formation] Tutorial G-58: Expected 8 teams, got 7
+196. [Team Formation] Tutorial G-59: Expected 8 teams, got 7
+197. [Team Formation] Tutorial G-6: Expected 8 teams, got 7
+198. [Team Formation] Tutorial G-60: Expected 8 teams, got 7
+199. [Team Formation] Tutorial G-61: Expected 8 teams, got 7
+200. [Team Formation] Tutorial G-62: Expected 8 teams, got 7
+201. [Team Formation] Tutorial G-63: Expected 8 teams, got 7
+202. [Team Formation] Tutorial G-64: Expected 8 teams, got 7
+203. [Team Formation] Tutorial G-65: Expected 8 teams, got 7
+204. [Team Formation] Tutorial G-66: Expected 8 teams, got 7
+205. [Team Formation] Tutorial G-67: Expected 8 teams, got 7
+206. [Team Formation] Tutorial G-68: Expected 8 teams, got 7
+207. [Team Formation] Tutorial G-69: Expected 8 teams, got 7
+208. [Team Formation] Tutorial G-7: Expected 8 teams, got 7
+209. [Team Formation] Tutorial G-70: Expected 8 teams, got 7
+210. [Team Formation] Tutorial G-71: Expected 8 teams, got 7
+211. [Team Formation] Tutorial G-72: Expected 8 teams, got 7
+212. [Team Formation] Tutorial G-73: Expected 8 teams, got 7
+213. [Team Formation] Tutorial G-74: Expected 8 teams, got 7
+214. [Team Formation] Tutorial G-75: Expected 8 teams, got 7
+215. [Team Formation] Tutorial G-76: Expected 8 teams, got 7
+216. [Team Formation] Tutorial G-77: Expected 8 teams, got 7
+217. [Team Formation] Tutorial G-78: Expected 8 teams, got 7
+218. [Team Formation] Tutorial G-79: Expected 8 teams, got 7
+219. [Team Formation] Tutorial G-8: Expected 8 teams, got 7
+220. [Team Formation] Tutorial G-80: Expected 8 teams, got 7
+221. [Team Formation] Tutorial G-81: Expected 8 teams, got 7
+222. [Team Formation] Tutorial G-82: Expected 8 teams, got 7
+223. [Team Formation] Tutorial G-83: Expected 8 teams, got 7
+224. [Team Formation] Tutorial G-84: Expected 8 teams, got 7
+225. [Team Formation] Tutorial G-85: Expected 8 teams, got 7
+226. [Team Formation] Tutorial G-86: Expected 8 teams, got 7
+227. [Team Formation] Tutorial G-87: Expected 8 teams, got 7
+228. [Team Formation] Tutorial G-88: Expected 8 teams, got 7
+229. [Team Formation] Tutorial G-89: Expected 8 teams, got 7
+230. [Team Formation] Tutorial G-9: Expected 8 teams, got 7
+231. [Team Formation] Tutorial G-90: Expected 8 teams, got 7
+232. [Team Formation] Tutorial G-91: Expected 8 teams, got 7
+233. [Team Formation] Tutorial G-92: Expected 8 teams, got 7
+234. [Team Formation] Tutorial G-93: Expected 8 teams, got 7
+235. [Team Formation] Tutorial G-94: Expected 8 teams, got 7
+236. [Team Formation] Tutorial G-95: Expected 8 teams, got 7
+237. [Team Formation] Tutorial G-96: Expected 8 teams, got 7
+238. [Team Formation] Tutorial G-97: Expected 8 teams, got 7
+239. [Team Formation] Tutorial G-98: Expected 8 teams, got 7
+240. [Team Formation] Tutorial G-99: Expected 8 teams, got 7
+
+ℹ️ INFO ISSUES (154):
+----------------------------------------------------------------------
+  1. [CGPA Distribution] Potential outlier: ASE (CGPA 4.52) in Tutorial G-1, Team 1 (mean=4.13, std=0.18)
+  2. [CGPA Distribution] Potential outlier: SSS (CGPA 4.48) in Tutorial G-1, Team 2 (mean=4.16, std=0.15)
+  3. [CGPA Distribution] Potential outlier: ASE (CGPA 3.88) in Tutorial G-10, Team 10 (mean=4.10, std=0.11)
+  4. [CGPA Distribution] Potential outlier: CEE (CGPA 4.52) in Tutorial G-100, Team 15 (mean=4.14, std=0.17)
+  5. [CGPA Distribution] Potential outlier: ASE (CGPA 3.88) in Tutorial G-101, Team 25 (mean=4.10, std=0.11)
+  6. [CGPA Distribution] Potential outlier: SPMS (CGPA 3.85) in Tutorial G-101, Team 28 (mean=4.06, std=0.10)
+  7. [CGPA Distribution] Potential outlier: CCDS (CGPA 4.52) in Tutorial G-103, Team 36 (mean=4.15, std=0.17)
+  8. [CGPA Distribution] Potential outlier: CEE (CGPA 3.80) in Tutorial G-103, Team 39 (mean=4.08, std=0.13)
+  9. [CGPA Distribution] Potential outlier: SBS (CGPA 3.85) in Tutorial G-104, Team 43 (mean=4.08, std=0.11)
+ 10. [CGPA Distribution] Potential outlier: EEE (CGPA 3.86) in Tutorial G-105, Team 55 (mean=4.06, std=0.10)
+ 11. [CGPA Distribution] Potential outlier: CCEB (CGPA 3.80) in Tutorial G-105, Team 56 (mean=4.05, std=0.11)
+ 12. [CGPA Distribution] Potential outlier: CoE (CGPA 4.52) in Tutorial G-106, Team 57 (mean=4.14, std=0.18)
+ 13. [CGPA Distribution] Potential outlier: CEE (CGPA 4.57) in Tutorial G-108, Team 71 (mean=4.14, std=0.18)
+ 14. [CGPA Distribution] Potential outlier: SPMS (CGPA 4.52) in Tutorial G-108, Team 72 (mean=4.13, std=0.18)
+ 15. [CGPA Distribution] Potential outlier: CEE (CGPA 3.80) in Tutorial G-108, Team 77 (mean=4.03, std=0.11)
+ 16. [CGPA Distribution] Potential outlier: SBS (CGPA 3.87) in Tutorial G-110, Team 98 (mean=4.04, std=0.09)
+ 17. [CGPA Distribution] Potential outlier: SSS (CGPA 4.52) in Tutorial G-111, Team 99 (mean=4.14, std=0.17)
+ 18. [CGPA Distribution] Potential outlier: CCEB (CGPA 3.80) in Tutorial G-111, Team 100 (mean=4.11, std=0.15)
+ 19. [CGPA Distribution] Potential outlier: CCDS (CGPA 4.52) in Tutorial G-112, Team 106 (mean=4.15, std=0.18)
+ 20. [CGPA Distribution] Potential outlier: CoB (NBS) (CGPA 4.52) in Tutorial G-114, Team 120 (mean=4.15, std=0.16)
+ 21. [CGPA Distribution] Potential outlier: CoE (CGPA 4.48) in Tutorial G-114, Team 121 (mean=4.14, std=0.15)
+ 22. [CGPA Distribution] Potential outlier: WKW SCI (CGPA 3.88) in Tutorial G-114, Team 125 (mean=4.05, std=0.09)
+ 23. [CGPA Distribution] Potential outlier: EEE (CGPA 3.85) in Tutorial G-114, Team 126 (mean=4.04, std=0.09)
+ 24. [CGPA Distribution] Potential outlier: MAE (CGPA 3.87) in Tutorial G-115, Team 128 (mean=4.11, std=0.12)
+ 25. [CGPA Distribution] Potential outlier: CoE (CGPA 4.52) in Tutorial G-116, Team 134 (mean=4.15, std=0.16)
+ 26. [CGPA Distribution] Potential outlier: CCEB (CGPA 4.48) in Tutorial G-116, Team 135 (mean=4.14, std=0.17)
+ 27. [CGPA Distribution] Potential outlier: CoE (CGPA 4.30) in Tutorial G-116, Team 137 (mean=4.11, std=0.10)
+ 28. [CGPA Distribution] Potential outlier: NIE (CGPA 3.80) in Tutorial G-116, Team 140 (mean=4.04, std=0.12)
+ 29. [CGPA Distribution] Potential outlier: SSS (CGPA 4.73) in Tutorial G-117, Team 141 (mean=4.18, std=0.24)
+ 30. [CGPA Distribution] Potential outlier: CoB (NBS) (CGPA 4.52) in Tutorial G-118, Team 148 (mean=4.14, std=0.18)
+ 31. [CGPA Distribution] Potential outlier: NIE (CGPA 3.85) in Tutorial G-119, Team 155 (mean=4.11, std=0.12)
+ 32. [CGPA Distribution] Potential outlier: NIE (CGPA 3.88) in Tutorial G-119, Team 159 (mean=4.09, std=0.10)
+ 33. [CGPA Distribution] Potential outlier: SoH (CGPA 3.87) in Tutorial G-119, Team 160 (mean=4.07, std=0.10)
+ 34. [CGPA Distribution] Potential outlier: MAE (CGPA 4.52) in Tutorial G-120, Team 170 (mean=4.17, std=0.16)
+ 35. [CGPA Distribution] Potential outlier: ADM (CGPA 4.52) in Tutorial G-14, Team 183 (mean=4.14, std=0.17)
+ 36. [CGPA Distribution] Potential outlier: SPMS (CGPA 3.80) in Tutorial G-14, Team 185 (mean=4.08, std=0.13)
+ 37. [CGPA Distribution] Potential outlier: EEE (CGPA 4.48) in Tutorial G-16, Team 197 (mean=4.12, std=0.16)
+ 38. [CGPA Distribution] Potential outlier: SoH (CGPA 3.85) in Tutorial G-16, Team 198 (mean=4.08, std=0.11)
+ 39. [CGPA Distribution] Potential outlier: MAE (CGPA 4.52) in Tutorial G-17, Team 204 (mean=4.14, std=0.17)
+ 40. [CGPA Distribution] Potential outlier: SoH (CGPA 3.90) in Tutorial G-18, Team 213 (mean=4.09, std=0.09)
+ 41. [CGPA Distribution] Potential outlier: SSS (CGPA 3.85) in Tutorial G-19, Team 221 (mean=4.06, std=0.10)
+ 42. [CGPA Distribution] Potential outlier: CoB (NBS) (CGPA 4.52) in Tutorial G-20, Team 232 (mean=4.14, std=0.18)
+ 43. [CGPA Distribution] Potential outlier: CoB (NBS) (CGPA 3.85) in Tutorial G-20, Team 233 (mean=4.09, std=0.12)
+ 44. [CGPA Distribution] Potential outlier: SSS (CGPA 4.73) in Tutorial G-23, Team 253 (mean=4.18, std=0.26)
+ 45. [CGPA Distribution] Potential outlier: SSS (CGPA 3.86) in Tutorial G-23, Team 255 (mean=4.08, std=0.11)
+ 46. [CGPA Distribution] Potential outlier: SBS (CGPA 3.80) in Tutorial G-23, Team 256 (mean=4.05, std=0.12)
+ 47. [CGPA Distribution] Potential outlier: SoH (CGPA 4.73) in Tutorial G-25, Team 267 (mean=4.16, std=0.23)
+ 48. [CGPA Distribution] Potential outlier: NIE (CGPA 3.80) in Tutorial G-25, Team 271 (mean=4.05, std=0.12)
+ 49. [CGPA Distribution] Potential outlier: CCDS (CGPA 4.52) in Tutorial G-27, Team 281 (mean=4.14, std=0.18)
+ 50. [CGPA Distribution] Potential outlier: MAE (CGPA 3.88) in Tutorial G-28, Team 289 (mean=4.09, std=0.10)
+ 51. [CGPA Distribution] Potential outlier: MAE (CGPA 4.52) in Tutorial G-29, Team 295 (mean=4.13, std=0.16)
+ 52. [CGPA Distribution] Potential outlier: CoB (NBS) (CGPA 3.80) in Tutorial G-29, Team 301 (mean=4.03, std=0.11)
+ 53. [CGPA Distribution] Potential outlier: CEE (CGPA 4.97) in Tutorial G-3, Team 302 (mean=4.19, std=0.30)
+ 54. [CGPA Distribution] Potential outlier: MAE (CGPA 4.79) in Tutorial G-3, Team 303 (mean=4.17, std=0.26)
+ 55. [CGPA Distribution] Potential outlier: MAE (CGPA 3.86) in Tutorial G-3, Team 304 (mean=4.08, std=0.11)
+ 56. [CGPA Distribution] Potential outlier: EEE (CGPA 3.85) in Tutorial G-3, Team 305 (mean=4.07, std=0.11)
+ 57. [CGPA Distribution] Potential outlier: CEE (CGPA 4.52) in Tutorial G-30, Team 309 (mean=4.15, std=0.18)
+ 58. [CGPA Distribution] Potential outlier: CEE (CGPA 4.79) in Tutorial G-31, Team 316 (mean=4.19, std=0.25)
+ 59. [CGPA Distribution] Potential outlier: CEE (CGPA 3.85) in Tutorial G-32, Team 325 (mean=4.08, std=0.11)
+ 60. [CGPA Distribution] Potential outlier: WKW SCI (CGPA 4.52) in Tutorial G-33, Team 330 (mean=4.13, std=0.17)
+ 61. [CGPA Distribution] Potential outlier: CoB (NBS) (CGPA 4.52) in Tutorial G-33, Team 331 (mean=4.17, std=0.16)
+ 62. [CGPA Distribution] Potential outlier: EEE (CGPA 3.85) in Tutorial G-35, Team 344 (mean=4.13, std=0.13)
+ 63. [CGPA Distribution] Potential outlier: EEE (CGPA 3.85) in Tutorial G-35, Team 349 (mean=4.08, std=0.11)
+ 64. [CGPA Distribution] Potential outlier: CoE (CGPA 4.97) in Tutorial G-37, Team 358 (mean=4.24, std=0.32)
+ 65. [CGPA Distribution] Potential outlier: CCEB (CGPA 4.52) in Tutorial G-37, Team 359 (mean=4.17, std=0.16)
+ 66. [CGPA Distribution] Potential outlier: CCDS (CGPA 4.52) in Tutorial G-38, Team 365 (mean=4.14, std=0.18)
+ 67. [CGPA Distribution] Potential outlier: CoE (CGPA 3.80) in Tutorial G-39, Team 375 (mean=4.06, std=0.12)
+ 68. [CGPA Distribution] Potential outlier: NIE (CGPA 3.87) in Tutorial G-39, Team 377 (mean=4.06, std=0.09)
+ 69. [CGPA Distribution] Potential outlier: EEE (CGPA 3.80) in Tutorial G-39, Team 378 (mean=4.04, std=0.11)
+ 70. [CGPA Distribution] Potential outlier: CoE (CGPA 3.85) in Tutorial G-4, Team 380 (mean=4.09, std=0.11)
+ 71. [CGPA Distribution] Potential outlier: MAE (CGPA 4.52) in Tutorial G-40, Team 387 (mean=4.16, std=0.16)
+ 72. [CGPA Distribution] Potential outlier: CoB (NBS) (CGPA 3.88) in Tutorial G-41, Team 394 (mean=4.13, std=0.12)
+ 73. [CGPA Distribution] Potential outlier: CoB (NBS) (CGPA 4.52) in Tutorial G-42, Team 401 (mean=4.15, std=0.18)
+ 74. [CGPA Distribution] Potential outlier: ASE (CGPA 3.90) in Tutorial G-43, Team 412 (mean=4.06, std=0.08)
+ 75. [CGPA Distribution] Potential outlier: SoH (CGPA 3.89) in Tutorial G-43, Team 413 (mean=4.05, std=0.08)
+ 76. [CGPA Distribution] Potential outlier: MAE (CGPA 4.52) in Tutorial G-44, Team 414 (mean=4.15, std=0.16)
+ 77. [CGPA Distribution] Potential outlier: SBS (CGPA 3.93) in Tutorial G-44, Team 415 (mean=4.12, std=0.09)
+ 78. [CGPA Distribution] Potential outlier: MAE (CGPA 3.90) in Tutorial G-44, Team 416 (mean=4.10, std=0.10)
+ 79. [CGPA Distribution] Potential outlier: SSS (CGPA 3.70) in Tutorial G-45, Team 427 (mean=4.00, std=0.15)
+ 80. [CGPA Distribution] Potential outlier: LKCMedicine (CGPA 4.97) in Tutorial G-46, Team 428 (mean=4.16, std=0.33)
+ 81. [CGPA Distribution] Potential outlier: CCEB (CGPA 4.79) in Tutorial G-48, Team 442 (mean=4.20, std=0.24)
+ 82. [CGPA Distribution] Potential outlier: CCDS (CGPA 4.48) in Tutorial G-5, Team 456 (mean=4.13, std=0.17)
+ 83. [CGPA Distribution] Potential outlier: CCDS (CGPA 4.79) in Tutorial G-50, Team 463 (mean=4.18, std=0.26)
+ 84. [CGPA Distribution] Potential outlier: SoH (CGPA 3.75) in Tutorial G-50, Team 464 (mean=4.10, std=0.16)
+ 85. [CGPA Distribution] Potential outlier: SoH (CGPA 4.73) in Tutorial G-51, Team 470 (mean=4.20, std=0.27)
+ 86. [CGPA Distribution] Potential outlier: EEE (CGPA 4.52) in Tutorial G-51, Team 471 (mean=4.16, std=0.16)
+ 87. [CGPA Distribution] Potential outlier: WKW SCI (CGPA 4.52) in Tutorial G-52, Team 477 (mean=4.12, std=0.18)
+ 88. [CGPA Distribution] Potential outlier: NIE (CGPA 3.80) in Tutorial G-53, Team 485 (mean=4.09, std=0.13)
+ 89. [CGPA Distribution] Potential outlier: SBS (CGPA 4.73) in Tutorial G-54, Team 491 (mean=4.18, std=0.23)
+ 90. [CGPA Distribution] Potential outlier: EEE (CGPA 3.85) in Tutorial G-55, Team 498 (mean=4.11, std=0.12)
+ 91. [CGPA Distribution] Potential outlier: LKCMedicine (CGPA 4.73) in Tutorial G-59, Team 526 (mean=4.13, std=0.25)
+ 92. [CGPA Distribution] Potential outlier: CoB (NBS) (CGPA 4.52) in Tutorial G-59, Team 527 (mean=4.13, std=0.17)
+ 93. [CGPA Distribution] Potential outlier: LKCMedicine (CGPA 4.79) in Tutorial G-6, Team 533 (mean=4.17, std=0.26)
+ 94. [CGPA Distribution] Potential outlier: SPMS (CGPA 4.48) in Tutorial G-60, Team 540 (mean=4.13, std=0.16)
+ 95. [CGPA Distribution] Potential outlier: CCDS (CGPA 3.88) in Tutorial G-60, Team 541 (mean=4.11, std=0.10)
+ 96. [CGPA Distribution] Potential outlier: CCDS (CGPA 3.86) in Tutorial G-60, Team 546 (mean=4.06, std=0.10)
+ 97. [CGPA Distribution] Potential outlier: MAE (CGPA 3.85) in Tutorial G-63, Team 563 (mean=4.08, std=0.11)
+ 98. [CGPA Distribution] Potential outlier: SoH (CGPA 3.88) in Tutorial G-64, Team 568 (mean=4.11, std=0.12)
+ 99. [CGPA Distribution] Potential outlier: ADM (CGPA 3.85) in Tutorial G-64, Team 569 (mean=4.11, std=0.13)
+100. [CGPA Distribution] Potential outlier: SBS (CGPA 3.85) in Tutorial G-64, Team 570 (mean=4.10, std=0.12)
+101. [CGPA Distribution] Potential outlier: CCDS (CGPA 3.87) in Tutorial G-64, Team 573 (mean=4.08, std=0.11)
+102. [CGPA Distribution] Potential outlier: CoB (NBS) (CGPA 3.85) in Tutorial G-64, Team 574 (mean=4.06, std=0.11)
+103. [CGPA Distribution] Potential outlier: CEE (CGPA 3.80) in Tutorial G-65, Team 575 (mean=4.09, std=0.13)
+104. [CGPA Distribution] Potential outlier: ASE (CGPA 4.48) in Tutorial G-66, Team 582 (mean=4.15, std=0.16)
+105. [CGPA Distribution] Potential outlier: SBS (CGPA 3.90) in Tutorial G-66, Team 583 (mean=4.13, std=0.11)
+106. [CGPA Distribution] Potential outlier: LKCMedicine (CGPA 3.88) in Tutorial G-66, Team 584 (mean=4.11, std=0.11)
+107. [CGPA Distribution] Potential outlier: EEE (CGPA 3.91) in Tutorial G-66, Team 585 (mean=4.11, std=0.10)
+108. [CGPA Distribution] Potential outlier: ASE (CGPA 3.85) in Tutorial G-67, Team 589 (mean=4.10, std=0.12)
+109. [CGPA Distribution] Potential outlier: NIE (CGPA 4.52) in Tutorial G-68, Team 596 (mean=4.12, std=0.18)
+110. [CGPA Distribution] Potential outlier: SBS (CGPA 3.80) in Tutorial G-68, Team 602 (mean=4.04, std=0.12)
+111. [CGPA Distribution] Potential outlier: CoB (NBS) (CGPA 4.52) in Tutorial G-7, Team 610 (mean=4.13, std=0.19)
+112. [CGPA Distribution] Potential outlier: SSS (CGPA 4.52) in Tutorial G-71, Team 624 (mean=4.13, std=0.18)
+113. [CGPA Distribution] Potential outlier: CoB (NBS) (CGPA 4.48) in Tutorial G-71, Team 625 (mean=4.15, std=0.16)
+114. [CGPA Distribution] Potential outlier: MAE (CGPA 4.48) in Tutorial G-71, Team 626 (mean=4.14, std=0.16)
+115. [CGPA Distribution] Potential outlier: MSE (CGPA 3.85) in Tutorial G-72, Team 631 (mean=4.11, std=0.13)
+116. [CGPA Distribution] Potential outlier: SoH (CGPA 3.90) in Tutorial G-73, Team 638 (mean=4.10, std=0.10)
+117. [CGPA Distribution] Potential outlier: SSS (CGPA 3.85) in Tutorial G-74, Team 650 (mean=4.06, std=0.10)
+118. [CGPA Distribution] Potential outlier: MSE (CGPA 3.80) in Tutorial G-74, Team 651 (mean=4.04, std=0.11)
+119. [CGPA Distribution] Potential outlier: NIE (CGPA 4.52) in Tutorial G-75, Team 652 (mean=4.12, std=0.18)
+120. [CGPA Distribution] Potential outlier: MAE (CGPA 4.48) in Tutorial G-75, Team 653 (mean=4.13, std=0.17)
+121. [CGPA Distribution] Potential outlier: NIE (CGPA 3.88) in Tutorial G-76, Team 664 (mean=4.08, std=0.10)
+122. [CGPA Distribution] Potential outlier: CoB (NBS) (CGPA 3.85) in Tutorial G-76, Team 665 (mean=4.06, std=0.10)
+123. [CGPA Distribution] Potential outlier: CCEB (CGPA 4.52) in Tutorial G-77, Team 666 (mean=4.13, std=0.18)
+124. [CGPA Distribution] Potential outlier: CCDS (CGPA 4.48) in Tutorial G-8, Team 687 (mean=4.13, std=0.16)
+125. [CGPA Distribution] Potential outlier: CCDS (CGPA 3.86) in Tutorial G-8, Team 693 (mean=4.05, std=0.10)
+126. [CGPA Distribution] Potential outlier: CCDS (CGPA 4.52) in Tutorial G-80, Team 694 (mean=4.14, std=0.19)
+127. [CGPA Distribution] Potential outlier: MAE (CGPA 4.52) in Tutorial G-81, Team 701 (mean=4.14, std=0.18)
+128. [CGPA Distribution] Potential outlier: MAE (CGPA 4.48) in Tutorial G-82, Team 708 (mean=4.13, std=0.17)
+129. [CGPA Distribution] Potential outlier: ADM (CGPA 3.88) in Tutorial G-84, Team 722 (mean=4.12, std=0.12)
+130. [CGPA Distribution] Potential outlier: CCEB (CGPA 3.80) in Tutorial G-84, Team 727 (mean=4.08, std=0.13)
+131. [CGPA Distribution] Potential outlier: CCEB (CGPA 4.52) in Tutorial G-86, Team 736 (mean=4.15, std=0.15)
+132. [CGPA Distribution] Potential outlier: SBS (CGPA 4.52) in Tutorial G-86, Team 737 (mean=4.16, std=0.16)
+133. [CGPA Distribution] Potential outlier: CCDS (CGPA 3.87) in Tutorial G-87, Team 749 (mean=4.06, std=0.09)
+134. [CGPA Distribution] Potential outlier: SBS (CGPA 4.48) in Tutorial G-89, Team 757 (mean=4.11, std=0.18)
+135. [CGPA Distribution] Potential outlier: EEE (CGPA 3.80) in Tutorial G-89, Team 759 (mean=4.07, std=0.13)
+136. [CGPA Distribution] Potential outlier: SBS (CGPA 3.80) in Tutorial G-89, Team 760 (mean=4.06, std=0.13)
+137. [CGPA Distribution] Potential outlier: EEE (CGPA 4.48) in Tutorial G-9, Team 764 (mean=4.13, std=0.16)
+138. [CGPA Distribution] Potential outlier: CCDS (CGPA 4.52) in Tutorial G-90, Team 771 (mean=4.12, std=0.18)
+139. [CGPA Distribution] Potential outlier: CCEB (CGPA 3.80) in Tutorial G-90, Team 772 (mean=4.08, std=0.14)
+140. [CGPA Distribution] Potential outlier: EEE (CGPA 3.90) in Tutorial G-91, Team 779 (mean=4.10, std=0.10)
+141. [CGPA Distribution] Potential outlier: CCDS (CGPA 3.85) in Tutorial G-91, Team 780 (mean=4.09, std=0.11)
+142. [CGPA Distribution] Potential outlier: CoE (CGPA 3.88) in Tutorial G-91, Team 782 (mean=4.08, std=0.10)
+143. [CGPA Distribution] Potential outlier: CoE (CGPA 3.85) in Tutorial G-91, Team 783 (mean=4.06, std=0.10)
+144. [CGPA Distribution] Potential outlier: CoB (NBS) (CGPA 3.82) in Tutorial G-91, Team 784 (mean=4.04, std=0.10)
+145. [CGPA Distribution] Potential outlier: SoH (CGPA 4.79) in Tutorial G-93, Team 792 (mean=4.20, std=0.25)
+146. [CGPA Distribution] Potential outlier: NIE (CGPA 4.52) in Tutorial G-93, Team 793 (mean=4.19, std=0.15)
+147. [CGPA Distribution] Potential outlier: CoB (NBS) (CGPA 4.48) in Tutorial G-93, Team 794 (mean=4.17, std=0.14)
+148. [CGPA Distribution] Potential outlier: SPMS (CGPA 4.48) in Tutorial G-94, Team 799 (mean=4.14, std=0.16)
+149. [CGPA Distribution] Potential outlier: CCEB (CGPA 3.85) in Tutorial G-94, Team 803 (mean=4.06, std=0.11)
+150. [CGPA Distribution] Potential outlier: SSS (CGPA 3.85) in Tutorial G-94, Team 804 (mean=4.06, std=0.10)
+151. [CGPA Distribution] Potential outlier: CCDS (CGPA 4.52) in Tutorial G-95, Team 806 (mean=4.10, std=0.19)
+152. [CGPA Distribution] Potential outlier: CCDS (CGPA 4.50) in Tutorial G-95, Team 807 (mean=4.13, std=0.18)
+153. [CGPA Distribution] Potential outlier: CoB (NBS) (CGPA 4.52) in Tutorial G-96, Team 813 (mean=4.11, std=0.18)
+154. [CGPA Distribution] Potential outlier: CCDS (CGPA 4.52) in Tutorial G-98, Team 827 (mean=4.13, std=0.19)
+
+
+

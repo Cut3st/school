@@ -1,0 +1,495 @@
+================================================================================
+SC1003 TEAM VALIDATION LOG
+================================================================================
+Timestamp: 2025-10-29 03:00:19
+CSV File:   C:/Users/User/OneDrive/Documents/GitHub/learning_python/FDBA_Team1_JohnSmith.csv
+Team Size:  4
+Strictness: NIGHTMARE
+Score:      98.2% | Grade: A+ (Excellent)
+Issues:     426 (🚨0/⚠️426/ℹ️0)
+================================================================================
+
+[SUMMARY REPORT]
+--------------------------------------------------------------------------------
+======================================================================
+TEAM ALLOCATION VALIDATION SUMMARY (NIGHTMARE MODE)
+======================================================================
+
+✓ Strictness Level: NIGHTMARE
+✓ Total Issues Found: 426
+
+Total Students: 6000
+Total Teams:    1440
+Expected Size:  4
+
+TEAM SIZE DISTRIBUTION:
+----------------------------------------------------------------------
+✓ Size 4: 1200 teams ( 83.3%)
+⚠ Size 5:  240 teams ( 16.7%)
+
+======================================================================
+BALANCE SUMMARY
+======================================================================
+
+GENDER BALANCE:
+  ✓ Balanced:   1374 teams ( 95.4%)
+  ✗ Imbalanced:   66 teams (  4.6%)
+
+SCHOOL DIVERSITY:
+  ✓ Balanced:   1440 teams (100.0%)
+  ✗ Imbalanced:    0 teams (  0.0%)
+
+CGPA STATISTICS:
+  Average team mean: 4.087
+  Average team std:  0.096
+  Range: 3.945 to 4.342
+
+======================================================================
+OVERALL QUALITY SCORE
+======================================================================
+
+Gender Balance:      95.4%
+School Diversity:   100.0%
+CGPA Distribution:  100.0%
+----------------------------------------------------------------------
+FINAL SCORE:         98.2%
+GRADE:              A+ (Excellent)
+
+
+[CRITICAL ISSUES REPORT]
+--------------------------------------------------------------------------------
+======================================================================
+ALL ISSUES FOUND (426 total)
+======================================================================
+
+⚠️ WARNING ISSUES (426):
+----------------------------------------------------------------------
+  1. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-1, Team 1)
+  2. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-1, Team 2)
+  3. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-10, Team 13)
+  4. [Gender Balance] Tutorial G-10, Team 13: M=3, F=2 (max: 2M/2F)
+  5. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-10, Team 14)
+  6. [Gender Balance] Tutorial G-10, Team 14: M=3, F=2 (max: 2M/2F)
+  7. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-100, Team 25)
+  8. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-100, Team 26)
+  9. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-101, Team 37)
+ 10. [Gender Balance] Tutorial G-101, Team 37: M=2, F=3 (max: 2M/2F)
+ 11. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-101, Team 38)
+ 12. [Gender Balance] Tutorial G-101, Team 38: M=3, F=2 (max: 2M/2F)
+ 13. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-102, Team 49)
+ 14. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-102, Team 50)
+ 15. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-103, Team 61)
+ 16. [Gender Balance] Tutorial G-103, Team 61: M=2, F=3 (max: 2M/2F)
+ 17. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-103, Team 62)
+ 18. [Gender Balance] Tutorial G-103, Team 62: M=3, F=2 (max: 2M/2F)
+ 19. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-104, Team 73)
+ 20. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-104, Team 74)
+ 21. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-105, Team 85)
+ 22. [Gender Balance] Tutorial G-105, Team 85: M=2, F=3 (max: 2M/2F)
+ 23. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-105, Team 86)
+ 24. [Gender Balance] Tutorial G-105, Team 86: M=2, F=3 (max: 2M/2F)
+ 25. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-106, Team 97)
+ 26. [Gender Balance] Tutorial G-106, Team 97: M=2, F=3 (max: 2M/2F)
+ 27. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-106, Team 98)
+ 28. [Gender Balance] Tutorial G-106, Team 98: M=2, F=3 (max: 2M/2F)
+ 29. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-107, Team 109)
+ 30. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-107, Team 110)
+ 31. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-108, Team 121)
+ 32. [Gender Balance] Tutorial G-108, Team 121: M=2, F=3 (max: 2M/2F)
+ 33. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-108, Team 122)
+ 34. [Gender Balance] Tutorial G-108, Team 122: M=3, F=2 (max: 2M/2F)
+ 35. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-109, Team 133)
+ 36. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-109, Team 134)
+ 37. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-11, Team 145)
+ 38. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-11, Team 146)
+ 39. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-110, Team 157)
+ 40. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-110, Team 158)
+ 41. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-111, Team 169)
+ 42. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-111, Team 170)
+ 43. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-112, Team 181)
+ 44. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-112, Team 182)
+ 45. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-113, Team 193)
+ 46. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-113, Team 194)
+ 47. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-114, Team 205)
+ 48. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-114, Team 206)
+ 49. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-115, Team 217)
+ 50. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-115, Team 218)
+ 51. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-116, Team 229)
+ 52. [Gender Balance] Tutorial G-116, Team 229: M=3, F=2 (max: 2M/2F)
+ 53. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-116, Team 230)
+ 54. [Gender Balance] Tutorial G-116, Team 230: M=3, F=2 (max: 2M/2F)
+ 55. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-117, Team 241)
+ 56. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-117, Team 242)
+ 57. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-118, Team 253)
+ 58. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-118, Team 254)
+ 59. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-119, Team 265)
+ 60. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-119, Team 266)
+ 61. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-12, Team 277)
+ 62. [Gender Balance] Tutorial G-12, Team 277: M=2, F=3 (max: 2M/2F)
+ 63. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-12, Team 278)
+ 64. [Gender Balance] Tutorial G-12, Team 278: M=2, F=3 (max: 2M/2F)
+ 65. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-120, Team 289)
+ 66. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-120, Team 290)
+ 67. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-13, Team 301)
+ 68. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-13, Team 302)
+ 69. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-14, Team 313)
+ 70. [Gender Balance] Tutorial G-14, Team 313: M=2, F=3 (max: 2M/2F)
+ 71. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-14, Team 314)
+ 72. [Gender Balance] Tutorial G-14, Team 314: M=2, F=3 (max: 2M/2F)
+ 73. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-15, Team 325)
+ 74. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-15, Team 326)
+ 75. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-16, Team 337)
+ 76. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-16, Team 338)
+ 77. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-17, Team 349)
+ 78. [Gender Balance] Tutorial G-17, Team 349: M=2, F=3 (max: 2M/2F)
+ 79. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-17, Team 350)
+ 80. [Gender Balance] Tutorial G-17, Team 350: M=3, F=2 (max: 2M/2F)
+ 81. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-18, Team 361)
+ 82. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-18, Team 362)
+ 83. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-19, Team 373)
+ 84. [Gender Balance] Tutorial G-19, Team 373: M=2, F=3 (max: 2M/2F)
+ 85. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-19, Team 374)
+ 86. [Gender Balance] Tutorial G-19, Team 374: M=3, F=2 (max: 2M/2F)
+ 87. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-2, Team 385)
+ 88. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-2, Team 386)
+ 89. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-20, Team 397)
+ 90. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-20, Team 398)
+ 91. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-21, Team 409)
+ 92. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-21, Team 410)
+ 93. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-22, Team 421)
+ 94. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-22, Team 422)
+ 95. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-23, Team 433)
+ 96. [Gender Balance] Tutorial G-23, Team 433: M=2, F=3 (max: 2M/2F)
+ 97. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-23, Team 434)
+ 98. [Gender Balance] Tutorial G-23, Team 434: M=3, F=2 (max: 2M/2F)
+ 99. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-24, Team 445)
+100. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-24, Team 446)
+101. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-25, Team 457)
+102. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-25, Team 458)
+103. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-26, Team 469)
+104. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-26, Team 470)
+105. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-27, Team 481)
+106. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-27, Team 482)
+107. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-28, Team 493)
+108. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-28, Team 494)
+109. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-29, Team 505)
+110. [Gender Balance] Tutorial G-29, Team 505: M=2, F=3 (max: 2M/2F)
+111. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-29, Team 506)
+112. [Gender Balance] Tutorial G-29, Team 506: M=3, F=2 (max: 2M/2F)
+113. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-3, Team 517)
+114. [Gender Balance] Tutorial G-3, Team 517: M=2, F=3 (max: 2M/2F)
+115. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-3, Team 518)
+116. [Gender Balance] Tutorial G-3, Team 518: M=3, F=2 (max: 2M/2F)
+117. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-30, Team 529)
+118. [Gender Balance] Tutorial G-30, Team 529: M=2, F=3 (max: 2M/2F)
+119. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-30, Team 530)
+120. [Gender Balance] Tutorial G-30, Team 530: M=3, F=2 (max: 2M/2F)
+121. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-31, Team 541)
+122. [Gender Balance] Tutorial G-31, Team 541: M=2, F=3 (max: 2M/2F)
+123. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-31, Team 542)
+124. [Gender Balance] Tutorial G-31, Team 542: M=3, F=2 (max: 2M/2F)
+125. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-32, Team 553)
+126. [Gender Balance] Tutorial G-32, Team 553: M=2, F=3 (max: 2M/2F)
+127. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-32, Team 554)
+128. [Gender Balance] Tutorial G-32, Team 554: M=2, F=3 (max: 2M/2F)
+129. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-33, Team 565)
+130. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-33, Team 566)
+131. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-34, Team 577)
+132. [Gender Balance] Tutorial G-34, Team 577: M=2, F=3 (max: 2M/2F)
+133. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-34, Team 578)
+134. [Gender Balance] Tutorial G-34, Team 578: M=2, F=3 (max: 2M/2F)
+135. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-35, Team 589)
+136. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-35, Team 590)
+137. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-36, Team 601)
+138. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-36, Team 602)
+139. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-37, Team 613)
+140. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-37, Team 614)
+141. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-38, Team 625)
+142. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-38, Team 626)
+143. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-39, Team 637)
+144. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-39, Team 638)
+145. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-4, Team 649)
+146. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-4, Team 650)
+147. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-40, Team 661)
+148. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-40, Team 662)
+149. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-41, Team 673)
+150. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-41, Team 674)
+151. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-42, Team 685)
+152. [Gender Balance] Tutorial G-42, Team 685: M=2, F=3 (max: 2M/2F)
+153. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-42, Team 686)
+154. [Gender Balance] Tutorial G-42, Team 686: M=2, F=3 (max: 2M/2F)
+155. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-43, Team 697)
+156. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-43, Team 698)
+157. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-44, Team 709)
+158. [Gender Balance] Tutorial G-44, Team 709: M=3, F=2 (max: 2M/2F)
+159. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-44, Team 710)
+160. [Gender Balance] Tutorial G-44, Team 710: M=3, F=2 (max: 2M/2F)
+161. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-45, Team 721)
+162. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-45, Team 722)
+163. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-46, Team 733)
+164. [Gender Balance] Tutorial G-46, Team 733: M=3, F=2 (max: 2M/2F)
+165. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-46, Team 734)
+166. [Gender Balance] Tutorial G-46, Team 734: M=3, F=2 (max: 2M/2F)
+167. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-47, Team 745)
+168. [Gender Balance] Tutorial G-47, Team 745: M=2, F=3 (max: 2M/2F)
+169. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-47, Team 746)
+170. [Gender Balance] Tutorial G-47, Team 746: M=2, F=3 (max: 2M/2F)
+171. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-48, Team 757)
+172. [Gender Balance] Tutorial G-48, Team 757: M=3, F=2 (max: 2M/2F)
+173. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-48, Team 758)
+174. [Gender Balance] Tutorial G-48, Team 758: M=3, F=2 (max: 2M/2F)
+175. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-49, Team 769)
+176. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-49, Team 770)
+177. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-5, Team 781)
+178. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-5, Team 782)
+179. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-50, Team 793)
+180. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-50, Team 794)
+181. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-51, Team 805)
+182. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-51, Team 806)
+183. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-52, Team 817)
+184. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-52, Team 818)
+185. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-53, Team 829)
+186. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-53, Team 830)
+187. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-54, Team 841)
+188. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-54, Team 842)
+189. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-55, Team 853)
+190. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-55, Team 854)
+191. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-56, Team 865)
+192. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-56, Team 866)
+193. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-57, Team 877)
+194. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-57, Team 878)
+195. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-58, Team 889)
+196. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-58, Team 890)
+197. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-59, Team 901)
+198. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-59, Team 902)
+199. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-6, Team 913)
+200. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-6, Team 914)
+201. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-60, Team 925)
+202. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-60, Team 926)
+203. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-61, Team 937)
+204. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-61, Team 938)
+205. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-62, Team 949)
+206. [Gender Balance] Tutorial G-62, Team 949: M=2, F=3 (max: 2M/2F)
+207. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-62, Team 950)
+208. [Gender Balance] Tutorial G-62, Team 950: M=3, F=2 (max: 2M/2F)
+209. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-63, Team 961)
+210. [Gender Balance] Tutorial G-63, Team 961: M=2, F=3 (max: 2M/2F)
+211. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-63, Team 962)
+212. [Gender Balance] Tutorial G-63, Team 962: M=3, F=2 (max: 2M/2F)
+213. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-64, Team 973)
+214. [Gender Balance] Tutorial G-64, Team 973: M=3, F=2 (max: 2M/2F)
+215. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-64, Team 974)
+216. [Gender Balance] Tutorial G-64, Team 974: M=3, F=2 (max: 2M/2F)
+217. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-65, Team 985)
+218. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-65, Team 986)
+219. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-66, Team 997)
+220. [Gender Balance] Tutorial G-66, Team 997: M=3, F=2 (max: 2M/2F)
+221. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-66, Team 998)
+222. [Gender Balance] Tutorial G-66, Team 998: M=3, F=2 (max: 2M/2F)
+223. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-67, Team 1009)
+224. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-67, Team 1010)
+225. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-68, Team 1021)
+226. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-68, Team 1022)
+227. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-69, Team 1033)
+228. [Gender Balance] Tutorial G-69, Team 1033: M=2, F=3 (max: 2M/2F)
+229. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-69, Team 1034)
+230. [Gender Balance] Tutorial G-69, Team 1034: M=3, F=2 (max: 2M/2F)
+231. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-7, Team 1045)
+232. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-7, Team 1046)
+233. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-70, Team 1057)
+234. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-70, Team 1058)
+235. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-71, Team 1069)
+236. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-71, Team 1070)
+237. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-72, Team 1081)
+238. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-72, Team 1082)
+239. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-73, Team 1093)
+240. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-73, Team 1094)
+241. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-74, Team 1105)
+242. [Gender Balance] Tutorial G-74, Team 1105: M=2, F=3 (max: 2M/2F)
+243. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-74, Team 1106)
+244. [Gender Balance] Tutorial G-74, Team 1106: M=2, F=3 (max: 2M/2F)
+245. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-75, Team 1117)
+246. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-75, Team 1118)
+247. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-76, Team 1129)
+248. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-76, Team 1130)
+249. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-77, Team 1141)
+250. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-77, Team 1142)
+251. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-78, Team 1153)
+252. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-78, Team 1154)
+253. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-79, Team 1165)
+254. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-79, Team 1166)
+255. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-8, Team 1177)
+256. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-8, Team 1178)
+257. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-80, Team 1189)
+258. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-80, Team 1190)
+259. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-81, Team 1201)
+260. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-81, Team 1202)
+261. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-82, Team 1213)
+262. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-82, Team 1214)
+263. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-83, Team 1225)
+264. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-83, Team 1226)
+265. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-84, Team 1237)
+266. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-84, Team 1238)
+267. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-85, Team 1249)
+268. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-85, Team 1250)
+269. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-86, Team 1261)
+270. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-86, Team 1262)
+271. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-87, Team 1273)
+272. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-87, Team 1274)
+273. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-88, Team 1285)
+274. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-88, Team 1286)
+275. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-89, Team 1297)
+276. [Gender Balance] Tutorial G-89, Team 1297: M=2, F=3 (max: 2M/2F)
+277. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-89, Team 1298)
+278. [Gender Balance] Tutorial G-89, Team 1298: M=3, F=2 (max: 2M/2F)
+279. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-9, Team 1309)
+280. [Gender Balance] Tutorial G-9, Team 1309: M=2, F=3 (max: 2M/2F)
+281. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-9, Team 1310)
+282. [Gender Balance] Tutorial G-9, Team 1310: M=2, F=3 (max: 2M/2F)
+283. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-90, Team 1321)
+284. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-90, Team 1322)
+285. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-91, Team 1333)
+286. [Gender Balance] Tutorial G-91, Team 1333: M=3, F=2 (max: 2M/2F)
+287. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-91, Team 1334)
+288. [Gender Balance] Tutorial G-91, Team 1334: M=3, F=2 (max: 2M/2F)
+289. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-92, Team 1345)
+290. [Gender Balance] Tutorial G-92, Team 1345: M=3, F=2 (max: 2M/2F)
+291. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-92, Team 1346)
+292. [Gender Balance] Tutorial G-92, Team 1346: M=3, F=2 (max: 2M/2F)
+293. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-93, Team 1357)
+294. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-93, Team 1358)
+295. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-94, Team 1369)
+296. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-94, Team 1370)
+297. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-95, Team 1381)
+298. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-95, Team 1382)
+299. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-96, Team 1393)
+300. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-96, Team 1394)
+301. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-97, Team 1405)
+302. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-97, Team 1406)
+303. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-98, Team 1417)
+304. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-98, Team 1418)
+305. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-99, Team 1429)
+306. [Team Formation] Team size 5 differs from expected 4 (Tutorial G-99, Team 1430)
+307. [Team Formation] Tutorial G-1: Expected 13 teams, got 12
+308. [Team Formation] Tutorial G-10: Expected 13 teams, got 12
+309. [Team Formation] Tutorial G-100: Expected 13 teams, got 12
+310. [Team Formation] Tutorial G-101: Expected 13 teams, got 12
+311. [Team Formation] Tutorial G-102: Expected 13 teams, got 12
+312. [Team Formation] Tutorial G-103: Expected 13 teams, got 12
+313. [Team Formation] Tutorial G-104: Expected 13 teams, got 12
+314. [Team Formation] Tutorial G-105: Expected 13 teams, got 12
+315. [Team Formation] Tutorial G-106: Expected 13 teams, got 12
+316. [Team Formation] Tutorial G-107: Expected 13 teams, got 12
+317. [Team Formation] Tutorial G-108: Expected 13 teams, got 12
+318. [Team Formation] Tutorial G-109: Expected 13 teams, got 12
+319. [Team Formation] Tutorial G-11: Expected 13 teams, got 12
+320. [Team Formation] Tutorial G-110: Expected 13 teams, got 12
+321. [Team Formation] Tutorial G-111: Expected 13 teams, got 12
+322. [Team Formation] Tutorial G-112: Expected 13 teams, got 12
+323. [Team Formation] Tutorial G-113: Expected 13 teams, got 12
+324. [Team Formation] Tutorial G-114: Expected 13 teams, got 12
+325. [Team Formation] Tutorial G-115: Expected 13 teams, got 12
+326. [Team Formation] Tutorial G-116: Expected 13 teams, got 12
+327. [Team Formation] Tutorial G-117: Expected 13 teams, got 12
+328. [Team Formation] Tutorial G-118: Expected 13 teams, got 12
+329. [Team Formation] Tutorial G-119: Expected 13 teams, got 12
+330. [Team Formation] Tutorial G-12: Expected 13 teams, got 12
+331. [Team Formation] Tutorial G-120: Expected 13 teams, got 12
+332. [Team Formation] Tutorial G-13: Expected 13 teams, got 12
+333. [Team Formation] Tutorial G-14: Expected 13 teams, got 12
+334. [Team Formation] Tutorial G-15: Expected 13 teams, got 12
+335. [Team Formation] Tutorial G-16: Expected 13 teams, got 12
+336. [Team Formation] Tutorial G-17: Expected 13 teams, got 12
+337. [Team Formation] Tutorial G-18: Expected 13 teams, got 12
+338. [Team Formation] Tutorial G-19: Expected 13 teams, got 12
+339. [Team Formation] Tutorial G-2: Expected 13 teams, got 12
+340. [Team Formation] Tutorial G-20: Expected 13 teams, got 12
+341. [Team Formation] Tutorial G-21: Expected 13 teams, got 12
+342. [Team Formation] Tutorial G-22: Expected 13 teams, got 12
+343. [Team Formation] Tutorial G-23: Expected 13 teams, got 12
+344. [Team Formation] Tutorial G-24: Expected 13 teams, got 12
+345. [Team Formation] Tutorial G-25: Expected 13 teams, got 12
+346. [Team Formation] Tutorial G-26: Expected 13 teams, got 12
+347. [Team Formation] Tutorial G-27: Expected 13 teams, got 12
+348. [Team Formation] Tutorial G-28: Expected 13 teams, got 12
+349. [Team Formation] Tutorial G-29: Expected 13 teams, got 12
+350. [Team Formation] Tutorial G-3: Expected 13 teams, got 12
+351. [Team Formation] Tutorial G-30: Expected 13 teams, got 12
+352. [Team Formation] Tutorial G-31: Expected 13 teams, got 12
+353. [Team Formation] Tutorial G-32: Expected 13 teams, got 12
+354. [Team Formation] Tutorial G-33: Expected 13 teams, got 12
+355. [Team Formation] Tutorial G-34: Expected 13 teams, got 12
+356. [Team Formation] Tutorial G-35: Expected 13 teams, got 12
+357. [Team Formation] Tutorial G-36: Expected 13 teams, got 12
+358. [Team Formation] Tutorial G-37: Expected 13 teams, got 12
+359. [Team Formation] Tutorial G-38: Expected 13 teams, got 12
+360. [Team Formation] Tutorial G-39: Expected 13 teams, got 12
+361. [Team Formation] Tutorial G-4: Expected 13 teams, got 12
+362. [Team Formation] Tutorial G-40: Expected 13 teams, got 12
+363. [Team Formation] Tutorial G-41: Expected 13 teams, got 12
+364. [Team Formation] Tutorial G-42: Expected 13 teams, got 12
+365. [Team Formation] Tutorial G-43: Expected 13 teams, got 12
+366. [Team Formation] Tutorial G-44: Expected 13 teams, got 12
+367. [Team Formation] Tutorial G-45: Expected 13 teams, got 12
+368. [Team Formation] Tutorial G-46: Expected 13 teams, got 12
+369. [Team Formation] Tutorial G-47: Expected 13 teams, got 12
+370. [Team Formation] Tutorial G-48: Expected 13 teams, got 12
+371. [Team Formation] Tutorial G-49: Expected 13 teams, got 12
+372. [Team Formation] Tutorial G-5: Expected 13 teams, got 12
+373. [Team Formation] Tutorial G-50: Expected 13 teams, got 12
+374. [Team Formation] Tutorial G-51: Expected 13 teams, got 12
+375. [Team Formation] Tutorial G-52: Expected 13 teams, got 12
+376. [Team Formation] Tutorial G-53: Expected 13 teams, got 12
+377. [Team Formation] Tutorial G-54: Expected 13 teams, got 12
+378. [Team Formation] Tutorial G-55: Expected 13 teams, got 12
+379. [Team Formation] Tutorial G-56: Expected 13 teams, got 12
+380. [Team Formation] Tutorial G-57: Expected 13 teams, got 12
+381. [Team Formation] Tutorial G-58: Expected 13 teams, got 12
+382. [Team Formation] Tutorial G-59: Expected 13 teams, got 12
+383. [Team Formation] Tutorial G-6: Expected 13 teams, got 12
+384. [Team Formation] Tutorial G-60: Expected 13 teams, got 12
+385. [Team Formation] Tutorial G-61: Expected 13 teams, got 12
+386. [Team Formation] Tutorial G-62: Expected 13 teams, got 12
+387. [Team Formation] Tutorial G-63: Expected 13 teams, got 12
+388. [Team Formation] Tutorial G-64: Expected 13 teams, got 12
+389. [Team Formation] Tutorial G-65: Expected 13 teams, got 12
+390. [Team Formation] Tutorial G-66: Expected 13 teams, got 12
+391. [Team Formation] Tutorial G-67: Expected 13 teams, got 12
+392. [Team Formation] Tutorial G-68: Expected 13 teams, got 12
+393. [Team Formation] Tutorial G-69: Expected 13 teams, got 12
+394. [Team Formation] Tutorial G-7: Expected 13 teams, got 12
+395. [Team Formation] Tutorial G-70: Expected 13 teams, got 12
+396. [Team Formation] Tutorial G-71: Expected 13 teams, got 12
+397. [Team Formation] Tutorial G-72: Expected 13 teams, got 12
+398. [Team Formation] Tutorial G-73: Expected 13 teams, got 12
+399. [Team Formation] Tutorial G-74: Expected 13 teams, got 12
+400. [Team Formation] Tutorial G-75: Expected 13 teams, got 12
+401. [Team Formation] Tutorial G-76: Expected 13 teams, got 12
+402. [Team Formation] Tutorial G-77: Expected 13 teams, got 12
+403. [Team Formation] Tutorial G-78: Expected 13 teams, got 12
+404. [Team Formation] Tutorial G-79: Expected 13 teams, got 12
+405. [Team Formation] Tutorial G-8: Expected 13 teams, got 12
+406. [Team Formation] Tutorial G-80: Expected 13 teams, got 12
+407. [Team Formation] Tutorial G-81: Expected 13 teams, got 12
+408. [Team Formation] Tutorial G-82: Expected 13 teams, got 12
+409. [Team Formation] Tutorial G-83: Expected 13 teams, got 12
+410. [Team Formation] Tutorial G-84: Expected 13 teams, got 12
+411. [Team Formation] Tutorial G-85: Expected 13 teams, got 12
+412. [Team Formation] Tutorial G-86: Expected 13 teams, got 12
+413. [Team Formation] Tutorial G-87: Expected 13 teams, got 12
+414. [Team Formation] Tutorial G-88: Expected 13 teams, got 12
+415. [Team Formation] Tutorial G-89: Expected 13 teams, got 12
+416. [Team Formation] Tutorial G-9: Expected 13 teams, got 12
+417. [Team Formation] Tutorial G-90: Expected 13 teams, got 12
+418. [Team Formation] Tutorial G-91: Expected 13 teams, got 12
+419. [Team Formation] Tutorial G-92: Expected 13 teams, got 12
+420. [Team Formation] Tutorial G-93: Expected 13 teams, got 12
+421. [Team Formation] Tutorial G-94: Expected 13 teams, got 12
+422. [Team Formation] Tutorial G-95: Expected 13 teams, got 12
+423. [Team Formation] Tutorial G-96: Expected 13 teams, got 12
+424. [Team Formation] Tutorial G-97: Expected 13 teams, got 12
+425. [Team Formation] Tutorial G-98: Expected 13 teams, got 12
+426. [Team Formation] Tutorial G-99: Expected 13 teams, got 12
+
+
+
