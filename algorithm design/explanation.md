@@ -9,7 +9,7 @@ This Python application automatically creates balanced student teams based on tu
 
 ### How to Use
 1. Make sure you have a file called `records.csv` with student data
-2. Run the program: `python team_allocator.py`
+2. Run the program: `python test_advanced.py` or `python test_basic.py`
 3. Enter team size when prompted (between 4-10 students)
 4. Check the output file: `FCS1_Team2_Joshua.csv`
 
@@ -917,4 +917,5 @@ Teams that are:
 - ✓ Gender diverse (males and females represented)
 - ✓ Discipline diverse (STEM and Non-STEM mixed)
 - ✓ Fair (no team has unfair advantages)
+
 - ✓ Tutorial-specific (same schedules)
