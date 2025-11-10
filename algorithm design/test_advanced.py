@@ -102,7 +102,7 @@ def form_teams(students, team_size):
     team_sizes = [base_size + 1 if i < extra else base_size for i in range(num_teams)]
     
     teams = [[] for _ in range(num_teams)]
-    placed_ids = set()
+    placed_ids = {}
     
     stem, nonstem, males, females = [], [], [], []
     for s in students:
@@ -127,15 +127,17 @@ def form_teams(students, team_size):
     random.shuffle(stem_majority)
     random.shuffle(gender_majority)
     
-    for i, student in enumerate(stem_minority):
+    for i in range(len(stem_minority)):
+        student = stem_minority[i]
         if student['id'] not in placed_ids:
             teams[i % num_teams].append(student)
-            placed_ids.add(student['id'])
-    
-    for i, student in enumerate(gender_minority):
+            placed_ids[student['id']] = True
+
+    for i in range(len(gender_minority)):
+        student = gender_minority[i]
         if student['id'] not in placed_ids:
             teams[i % num_teams].append(student)
-            placed_ids.add(student['id'])
+            placed_ids[student['id']] = True
     
     current_team = 0
     for student in gender_majority:
@@ -148,7 +150,7 @@ def form_teams(students, team_size):
             if len(teams[idx]) < team_sizes[idx] and \
                check_balanced(teams[idx], student, team_sizes[idx], ratio):
                 teams[idx].append(student)
-                placed_ids.add(student['id'])
+                placed_ids[student['id']] = True
                 placed = True
                 current_team = (idx + 1) % num_teams
                 break
@@ -162,7 +164,7 @@ def form_teams(students, team_size):
                     max_space = space
                     best_team = t
             teams[best_team].append(student)
-            placed_ids.add(student['id'])
+            placed_ids[student['id']] = True
             current_team = (best_team + 1) % num_teams
     
     for student in stem_majority:
@@ -175,7 +177,7 @@ def form_teams(students, team_size):
             if len(teams[idx]) < team_sizes[idx] and \
                check_balanced(teams[idx], student, team_sizes[idx], ratio):
                 teams[idx].append(student)
-                placed_ids.add(student['id'])
+                placed_ids[student['id']] = True
                 placed = True
                 current_team = (idx + 1) % num_teams
                 break
@@ -189,7 +191,7 @@ def form_teams(students, team_size):
                     max_space = space
                     best_team = t
             teams[best_team].append(student)
-            placed_ids.add(student['id'])
+            placed_ids[student['id']] = True
             current_team = (best_team + 1) % num_teams
     
     return teams
