@@ -1,0 +1,1395 @@
+================================================================================
+TEAM VALIDATION LOG
+================================================================================
+Timestamp: 2025-11-11 00:14:01
+CSV File:   C:/Users/User/OneDrive/Documents/GitHub/school/school/FCED_Team2_CheeWeiLiang.csv
+Team Size:  5
+Strictness: NIGHTMARE
+Score:      84.4% | Grade: B  (Acceptable)
+Issues:     1319 (🚨6/⚠️1308/ℹ️5)
+================================================================================
+
+[SUMMARY REPORT]
+--------------------------------------------------------------------------------
+======================================================================
+TEAM ALLOCATION VALIDATION SUMMARY (NIGHTMARE MODE)
+======================================================================
+
+✓ Strictness Level: NIGHTMARE
+✓ Total Issues Found: 1319
+⚠️  Score Penalty: -12.0%
+
+Total Students: 6000
+Total Teams:    1200
+Expected Size:  5
+
+TEAM SIZE DISTRIBUTION:
+----------------------------------------------------------------------
+✓ Size 5: 1200 teams (100.0%)
+
+======================================================================
+BALANCE SUMMARY
+======================================================================
+
+GENDER BALANCE:
+  ✓ Balanced:   1093 teams ( 91.1%)
+  ✗ Imbalanced:  107 teams (  8.9%)
+
+SCHOOL DIVERSITY:
+  ✓ Balanced:   1200 teams (100.0%)
+  ✗ Imbalanced:    0 teams (  0.0%)
+
+CGPA STATISTICS:
+  Average team mean: 4.089
+  Average team std:  0.104
+  Range: 3.966 to 4.294
+
+======================================================================
+OVERALL QUALITY SCORE
+======================================================================
+
+Gender Balance:      91.1%
+School Diversity:   100.0%
+CGPA Distribution:  100.0%
+Penalty:            -12.0%
+----------------------------------------------------------------------
+FINAL SCORE:         84.4%
+GRADE:              B  (Acceptable)
+
+
+[CRITICAL ISSUES REPORT]
+--------------------------------------------------------------------------------
+======================================================================
+ALL ISSUES FOUND (1319 total)
+======================================================================
+
+🚨 CRITICAL ISSUES (6):
+----------------------------------------------------------------------
+  1. [Gender Balance] Single-gender team detected: Tutorial G-114, Team Team 8 (M=0, F=5)
+  2. [Gender Balance] Single-gender team detected: Tutorial G-53, Team Team 7 (M=0, F=5)
+  3. [Gender Balance] Single-gender team detected: Tutorial G-7, Team Team 7 (M=5, F=0)
+  4. [Gender Balance] Single-gender team detected: Tutorial G-86, Team Team 9 (M=0, F=5)
+  5. [Gender Balance] Single-gender team detected: Tutorial G-88, Team Team 10 (M=5, F=0)
+  6. [Gender Balance] Single-gender team detected: Tutorial G-9, Team Team 10 (M=0, F=5)
+
+⚠️ WARNING ISSUES (1308):
+----------------------------------------------------------------------
+  1. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-1
+  2. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-1
+  3. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-1
+  4. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-1
+  5. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-1
+  6. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-1
+  7. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-1
+  8. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-1
+  9. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-1
+ 10. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-1
+ 11. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-10
+ 12. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-10
+ 13. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-10
+ 14. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-10
+ 15. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-10
+ 16. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-10
+ 17. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-10
+ 18. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-10
+ 19. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-10
+ 20. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-10
+ 21. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-100
+ 22. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-100
+ 23. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-100
+ 24. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-100
+ 25. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-100
+ 26. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-100
+ 27. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-100
+ 28. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-100
+ 29. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-100
+ 30. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-100
+ 31. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-101
+ 32. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-101
+ 33. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-101
+ 34. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-101
+ 35. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-101
+ 36. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-101
+ 37. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-101
+ 38. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-101
+ 39. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-101
+ 40. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-101
+ 41. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-102
+ 42. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-102
+ 43. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-102
+ 44. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-102
+ 45. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-102
+ 46. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-102
+ 47. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-102
+ 48. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-102
+ 49. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-102
+ 50. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-102
+ 51. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-103
+ 52. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-103
+ 53. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-103
+ 54. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-103
+ 55. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-103
+ 56. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-103
+ 57. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-103
+ 58. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-103
+ 59. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-103
+ 60. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-103
+ 61. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-104
+ 62. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-104
+ 63. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-104
+ 64. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-104
+ 65. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-104
+ 66. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-104
+ 67. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-104
+ 68. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-104
+ 69. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-104
+ 70. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-104
+ 71. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-105
+ 72. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-105
+ 73. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-105
+ 74. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-105
+ 75. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-105
+ 76. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-105
+ 77. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-105
+ 78. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-105
+ 79. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-105
+ 80. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-105
+ 81. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-106
+ 82. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-106
+ 83. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-106
+ 84. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-106
+ 85. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-106
+ 86. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-106
+ 87. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-106
+ 88. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-106
+ 89. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-106
+ 90. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-106
+ 91. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-107
+ 92. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-107
+ 93. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-107
+ 94. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-107
+ 95. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-107
+ 96. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-107
+ 97. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-107
+ 98. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-107
+ 99. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-107
+100. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-107
+101. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-108
+102. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-108
+103. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-108
+104. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-108
+105. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-108
+106. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-108
+107. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-108
+108. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-108
+109. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-108
+110. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-108
+111. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-109
+112. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-109
+113. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-109
+114. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-109
+115. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-109
+116. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-109
+117. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-109
+118. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-109
+119. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-109
+120. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-109
+121. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-11
+122. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-11
+123. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-11
+124. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-11
+125. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-11
+126. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-11
+127. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-11
+128. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-11
+129. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-11
+130. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-11
+131. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-110
+132. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-110
+133. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-110
+134. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-110
+135. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-110
+136. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-110
+137. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-110
+138. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-110
+139. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-110
+140. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-110
+141. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-111
+142. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-111
+143. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-111
+144. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-111
+145. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-111
+146. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-111
+147. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-111
+148. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-111
+149. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-111
+150. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-111
+151. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-112
+152. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-112
+153. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-112
+154. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-112
+155. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-112
+156. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-112
+157. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-112
+158. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-112
+159. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-112
+160. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-112
+161. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-113
+162. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-113
+163. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-113
+164. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-113
+165. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-113
+166. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-113
+167. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-113
+168. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-113
+169. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-113
+170. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-113
+171. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-114
+172. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-114
+173. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-114
+174. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-114
+175. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-114
+176. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-114
+177. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-114
+178. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-114
+179. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-114
+180. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-114
+181. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-115
+182. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-115
+183. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-115
+184. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-115
+185. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-115
+186. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-115
+187. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-115
+188. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-115
+189. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-115
+190. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-115
+191. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-116
+192. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-116
+193. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-116
+194. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-116
+195. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-116
+196. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-116
+197. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-116
+198. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-116
+199. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-116
+200. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-116
+201. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-117
+202. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-117
+203. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-117
+204. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-117
+205. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-117
+206. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-117
+207. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-117
+208. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-117
+209. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-117
+210. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-117
+211. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-118
+212. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-118
+213. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-118
+214. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-118
+215. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-118
+216. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-118
+217. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-118
+218. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-118
+219. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-118
+220. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-118
+221. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-119
+222. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-119
+223. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-119
+224. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-119
+225. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-119
+226. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-119
+227. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-119
+228. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-119
+229. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-119
+230. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-119
+231. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-12
+232. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-12
+233. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-12
+234. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-12
+235. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-12
+236. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-12
+237. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-12
+238. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-12
+239. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-12
+240. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-12
+241. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-120
+242. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-120
+243. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-120
+244. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-120
+245. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-120
+246. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-120
+247. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-120
+248. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-120
+249. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-120
+250. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-120
+251. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-13
+252. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-13
+253. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-13
+254. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-13
+255. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-13
+256. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-13
+257. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-13
+258. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-13
+259. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-13
+260. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-13
+261. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-14
+262. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-14
+263. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-14
+264. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-14
+265. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-14
+266. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-14
+267. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-14
+268. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-14
+269. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-14
+270. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-14
+271. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-15
+272. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-15
+273. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-15
+274. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-15
+275. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-15
+276. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-15
+277. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-15
+278. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-15
+279. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-15
+280. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-15
+281. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-16
+282. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-16
+283. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-16
+284. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-16
+285. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-16
+286. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-16
+287. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-16
+288. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-16
+289. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-16
+290. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-16
+291. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-17
+292. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-17
+293. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-17
+294. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-17
+295. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-17
+296. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-17
+297. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-17
+298. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-17
+299. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-17
+300. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-17
+301. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-18
+302. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-18
+303. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-18
+304. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-18
+305. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-18
+306. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-18
+307. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-18
+308. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-18
+309. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-18
+310. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-18
+311. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-19
+312. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-19
+313. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-19
+314. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-19
+315. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-19
+316. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-19
+317. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-19
+318. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-19
+319. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-19
+320. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-19
+321. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-2
+322. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-2
+323. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-2
+324. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-2
+325. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-2
+326. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-2
+327. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-2
+328. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-2
+329. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-2
+330. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-2
+331. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-20
+332. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-20
+333. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-20
+334. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-20
+335. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-20
+336. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-20
+337. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-20
+338. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-20
+339. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-20
+340. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-20
+341. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-21
+342. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-21
+343. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-21
+344. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-21
+345. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-21
+346. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-21
+347. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-21
+348. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-21
+349. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-21
+350. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-21
+351. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-22
+352. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-22
+353. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-22
+354. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-22
+355. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-22
+356. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-22
+357. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-22
+358. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-22
+359. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-22
+360. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-22
+361. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-23
+362. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-23
+363. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-23
+364. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-23
+365. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-23
+366. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-23
+367. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-23
+368. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-23
+369. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-23
+370. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-23
+371. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-24
+372. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-24
+373. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-24
+374. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-24
+375. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-24
+376. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-24
+377. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-24
+378. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-24
+379. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-24
+380. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-24
+381. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-25
+382. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-25
+383. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-25
+384. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-25
+385. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-25
+386. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-25
+387. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-25
+388. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-25
+389. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-25
+390. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-25
+391. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-26
+392. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-26
+393. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-26
+394. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-26
+395. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-26
+396. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-26
+397. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-26
+398. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-26
+399. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-26
+400. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-26
+401. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-27
+402. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-27
+403. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-27
+404. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-27
+405. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-27
+406. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-27
+407. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-27
+408. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-27
+409. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-27
+410. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-27
+411. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-28
+412. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-28
+413. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-28
+414. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-28
+415. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-28
+416. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-28
+417. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-28
+418. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-28
+419. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-28
+420. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-28
+421. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-29
+422. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-29
+423. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-29
+424. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-29
+425. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-29
+426. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-29
+427. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-29
+428. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-29
+429. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-29
+430. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-29
+431. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-3
+432. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-3
+433. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-3
+434. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-3
+435. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-3
+436. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-3
+437. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-3
+438. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-3
+439. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-3
+440. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-3
+441. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-30
+442. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-30
+443. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-30
+444. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-30
+445. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-30
+446. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-30
+447. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-30
+448. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-30
+449. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-30
+450. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-30
+451. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-31
+452. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-31
+453. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-31
+454. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-31
+455. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-31
+456. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-31
+457. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-31
+458. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-31
+459. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-31
+460. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-31
+461. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-32
+462. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-32
+463. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-32
+464. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-32
+465. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-32
+466. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-32
+467. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-32
+468. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-32
+469. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-32
+470. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-32
+471. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-33
+472. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-33
+473. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-33
+474. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-33
+475. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-33
+476. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-33
+477. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-33
+478. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-33
+479. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-33
+480. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-33
+481. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-34
+482. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-34
+483. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-34
+484. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-34
+485. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-34
+486. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-34
+487. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-34
+488. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-34
+489. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-34
+490. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-34
+491. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-35
+492. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-35
+493. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-35
+494. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-35
+495. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-35
+496. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-35
+497. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-35
+498. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-35
+499. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-35
+500. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-35
+501. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-36
+502. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-36
+503. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-36
+504. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-36
+505. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-36
+506. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-36
+507. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-36
+508. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-36
+509. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-36
+510. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-36
+511. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-37
+512. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-37
+513. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-37
+514. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-37
+515. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-37
+516. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-37
+517. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-37
+518. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-37
+519. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-37
+520. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-37
+521. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-38
+522. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-38
+523. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-38
+524. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-38
+525. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-38
+526. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-38
+527. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-38
+528. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-38
+529. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-38
+530. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-38
+531. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-39
+532. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-39
+533. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-39
+534. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-39
+535. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-39
+536. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-39
+537. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-39
+538. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-39
+539. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-39
+540. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-39
+541. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-4
+542. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-4
+543. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-4
+544. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-4
+545. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-4
+546. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-4
+547. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-4
+548. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-4
+549. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-4
+550. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-4
+551. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-40
+552. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-40
+553. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-40
+554. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-40
+555. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-40
+556. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-40
+557. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-40
+558. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-40
+559. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-40
+560. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-40
+561. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-41
+562. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-41
+563. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-41
+564. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-41
+565. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-41
+566. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-41
+567. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-41
+568. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-41
+569. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-41
+570. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-41
+571. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-42
+572. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-42
+573. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-42
+574. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-42
+575. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-42
+576. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-42
+577. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-42
+578. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-42
+579. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-42
+580. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-42
+581. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-43
+582. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-43
+583. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-43
+584. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-43
+585. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-43
+586. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-43
+587. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-43
+588. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-43
+589. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-43
+590. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-43
+591. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-44
+592. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-44
+593. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-44
+594. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-44
+595. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-44
+596. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-44
+597. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-44
+598. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-44
+599. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-44
+600. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-44
+601. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-45
+602. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-45
+603. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-45
+604. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-45
+605. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-45
+606. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-45
+607. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-45
+608. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-45
+609. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-45
+610. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-45
+611. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-46
+612. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-46
+613. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-46
+614. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-46
+615. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-46
+616. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-46
+617. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-46
+618. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-46
+619. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-46
+620. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-46
+621. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-47
+622. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-47
+623. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-47
+624. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-47
+625. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-47
+626. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-47
+627. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-47
+628. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-47
+629. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-47
+630. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-47
+631. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-48
+632. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-48
+633. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-48
+634. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-48
+635. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-48
+636. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-48
+637. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-48
+638. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-48
+639. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-48
+640. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-48
+641. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-49
+642. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-49
+643. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-49
+644. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-49
+645. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-49
+646. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-49
+647. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-49
+648. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-49
+649. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-49
+650. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-49
+651. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-5
+652. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-5
+653. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-5
+654. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-5
+655. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-5
+656. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-5
+657. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-5
+658. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-5
+659. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-5
+660. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-5
+661. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-50
+662. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-50
+663. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-50
+664. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-50
+665. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-50
+666. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-50
+667. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-50
+668. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-50
+669. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-50
+670. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-50
+671. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-51
+672. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-51
+673. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-51
+674. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-51
+675. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-51
+676. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-51
+677. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-51
+678. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-51
+679. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-51
+680. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-51
+681. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-52
+682. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-52
+683. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-52
+684. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-52
+685. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-52
+686. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-52
+687. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-52
+688. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-52
+689. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-52
+690. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-52
+691. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-53
+692. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-53
+693. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-53
+694. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-53
+695. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-53
+696. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-53
+697. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-53
+698. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-53
+699. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-53
+700. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-53
+701. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-54
+702. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-54
+703. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-54
+704. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-54
+705. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-54
+706. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-54
+707. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-54
+708. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-54
+709. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-54
+710. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-54
+711. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-55
+712. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-55
+713. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-55
+714. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-55
+715. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-55
+716. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-55
+717. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-55
+718. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-55
+719. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-55
+720. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-55
+721. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-56
+722. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-56
+723. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-56
+724. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-56
+725. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-56
+726. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-56
+727. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-56
+728. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-56
+729. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-56
+730. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-56
+731. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-57
+732. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-57
+733. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-57
+734. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-57
+735. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-57
+736. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-57
+737. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-57
+738. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-57
+739. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-57
+740. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-57
+741. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-58
+742. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-58
+743. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-58
+744. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-58
+745. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-58
+746. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-58
+747. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-58
+748. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-58
+749. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-58
+750. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-58
+751. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-59
+752. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-59
+753. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-59
+754. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-59
+755. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-59
+756. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-59
+757. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-59
+758. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-59
+759. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-59
+760. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-59
+761. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-6
+762. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-6
+763. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-6
+764. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-6
+765. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-6
+766. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-6
+767. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-6
+768. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-6
+769. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-6
+770. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-6
+771. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-60
+772. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-60
+773. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-60
+774. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-60
+775. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-60
+776. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-60
+777. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-60
+778. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-60
+779. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-60
+780. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-60
+781. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-61
+782. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-61
+783. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-61
+784. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-61
+785. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-61
+786. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-61
+787. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-61
+788. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-61
+789. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-61
+790. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-61
+791. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-62
+792. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-62
+793. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-62
+794. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-62
+795. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-62
+796. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-62
+797. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-62
+798. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-62
+799. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-62
+800. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-62
+801. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-63
+802. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-63
+803. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-63
+804. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-63
+805. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-63
+806. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-63
+807. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-63
+808. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-63
+809. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-63
+810. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-63
+811. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-64
+812. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-64
+813. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-64
+814. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-64
+815. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-64
+816. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-64
+817. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-64
+818. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-64
+819. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-64
+820. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-64
+821. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-65
+822. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-65
+823. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-65
+824. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-65
+825. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-65
+826. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-65
+827. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-65
+828. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-65
+829. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-65
+830. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-65
+831. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-66
+832. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-66
+833. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-66
+834. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-66
+835. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-66
+836. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-66
+837. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-66
+838. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-66
+839. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-66
+840. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-66
+841. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-67
+842. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-67
+843. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-67
+844. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-67
+845. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-67
+846. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-67
+847. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-67
+848. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-67
+849. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-67
+850. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-67
+851. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-68
+852. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-68
+853. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-68
+854. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-68
+855. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-68
+856. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-68
+857. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-68
+858. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-68
+859. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-68
+860. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-68
+861. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-69
+862. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-69
+863. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-69
+864. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-69
+865. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-69
+866. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-69
+867. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-69
+868. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-69
+869. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-69
+870. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-69
+871. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-7
+872. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-7
+873. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-7
+874. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-7
+875. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-7
+876. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-7
+877. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-7
+878. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-7
+879. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-7
+880. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-7
+881. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-70
+882. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-70
+883. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-70
+884. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-70
+885. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-70
+886. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-70
+887. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-70
+888. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-70
+889. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-70
+890. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-70
+891. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-71
+892. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-71
+893. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-71
+894. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-71
+895. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-71
+896. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-71
+897. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-71
+898. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-71
+899. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-71
+900. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-71
+901. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-72
+902. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-72
+903. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-72
+904. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-72
+905. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-72
+906. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-72
+907. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-72
+908. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-72
+909. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-72
+910. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-72
+911. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-73
+912. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-73
+913. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-73
+914. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-73
+915. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-73
+916. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-73
+917. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-73
+918. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-73
+919. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-73
+920. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-73
+921. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-74
+922. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-74
+923. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-74
+924. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-74
+925. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-74
+926. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-74
+927. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-74
+928. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-74
+929. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-74
+930. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-74
+931. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-75
+932. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-75
+933. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-75
+934. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-75
+935. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-75
+936. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-75
+937. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-75
+938. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-75
+939. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-75
+940. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-75
+941. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-76
+942. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-76
+943. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-76
+944. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-76
+945. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-76
+946. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-76
+947. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-76
+948. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-76
+949. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-76
+950. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-76
+951. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-77
+952. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-77
+953. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-77
+954. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-77
+955. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-77
+956. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-77
+957. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-77
+958. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-77
+959. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-77
+960. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-77
+961. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-78
+962. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-78
+963. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-78
+964. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-78
+965. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-78
+966. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-78
+967. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-78
+968. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-78
+969. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-78
+970. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-78
+971. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-79
+972. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-79
+973. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-79
+974. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-79
+975. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-79
+976. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-79
+977. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-79
+978. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-79
+979. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-79
+980. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-79
+981. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-8
+982. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-8
+983. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-8
+984. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-8
+985. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-8
+986. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-8
+987. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-8
+988. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-8
+989. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-8
+990. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-8
+991. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-80
+992. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-80
+993. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-80
+994. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-80
+995. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-80
+996. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-80
+997. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-80
+998. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-80
+999. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-80
+1000. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-80
+1001. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-81
+1002. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-81
+1003. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-81
+1004. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-81
+1005. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-81
+1006. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-81
+1007. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-81
+1008. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-81
+1009. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-81
+1010. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-81
+1011. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-82
+1012. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-82
+1013. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-82
+1014. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-82
+1015. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-82
+1016. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-82
+1017. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-82
+1018. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-82
+1019. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-82
+1020. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-82
+1021. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-83
+1022. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-83
+1023. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-83
+1024. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-83
+1025. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-83
+1026. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-83
+1027. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-83
+1028. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-83
+1029. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-83
+1030. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-83
+1031. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-84
+1032. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-84
+1033. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-84
+1034. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-84
+1035. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-84
+1036. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-84
+1037. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-84
+1038. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-84
+1039. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-84
+1040. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-84
+1041. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-85
+1042. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-85
+1043. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-85
+1044. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-85
+1045. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-85
+1046. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-85
+1047. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-85
+1048. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-85
+1049. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-85
+1050. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-85
+1051. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-86
+1052. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-86
+1053. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-86
+1054. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-86
+1055. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-86
+1056. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-86
+1057. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-86
+1058. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-86
+1059. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-86
+1060. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-86
+1061. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-87
+1062. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-87
+1063. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-87
+1064. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-87
+1065. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-87
+1066. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-87
+1067. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-87
+1068. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-87
+1069. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-87
+1070. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-87
+1071. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-88
+1072. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-88
+1073. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-88
+1074. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-88
+1075. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-88
+1076. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-88
+1077. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-88
+1078. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-88
+1079. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-88
+1080. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-88
+1081. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-89
+1082. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-89
+1083. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-89
+1084. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-89
+1085. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-89
+1086. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-89
+1087. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-89
+1088. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-89
+1089. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-89
+1090. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-89
+1091. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-9
+1092. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-9
+1093. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-9
+1094. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-9
+1095. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-9
+1096. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-9
+1097. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-9
+1098. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-9
+1099. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-9
+1100. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-9
+1101. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-90
+1102. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-90
+1103. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-90
+1104. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-90
+1105. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-90
+1106. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-90
+1107. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-90
+1108. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-90
+1109. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-90
+1110. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-90
+1111. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-91
+1112. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-91
+1113. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-91
+1114. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-91
+1115. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-91
+1116. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-91
+1117. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-91
+1118. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-91
+1119. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-91
+1120. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-91
+1121. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-92
+1122. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-92
+1123. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-92
+1124. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-92
+1125. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-92
+1126. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-92
+1127. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-92
+1128. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-92
+1129. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-92
+1130. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-92
+1131. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-93
+1132. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-93
+1133. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-93
+1134. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-93
+1135. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-93
+1136. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-93
+1137. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-93
+1138. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-93
+1139. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-93
+1140. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-93
+1141. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-94
+1142. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-94
+1143. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-94
+1144. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-94
+1145. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-94
+1146. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-94
+1147. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-94
+1148. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-94
+1149. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-94
+1150. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-94
+1151. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-95
+1152. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-95
+1153. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-95
+1154. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-95
+1155. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-95
+1156. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-95
+1157. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-95
+1158. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-95
+1159. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-95
+1160. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-95
+1161. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-96
+1162. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-96
+1163. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-96
+1164. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-96
+1165. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-96
+1166. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-96
+1167. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-96
+1168. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-96
+1169. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-96
+1170. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-96
+1171. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-97
+1172. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-97
+1173. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-97
+1174. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-97
+1175. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-97
+1176. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-97
+1177. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-97
+1178. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-97
+1179. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-97
+1180. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-97
+1181. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-98
+1182. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-98
+1183. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-98
+1184. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-98
+1185. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-98
+1186. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-98
+1187. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-98
+1188. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-98
+1189. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-98
+1190. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-98
+1191. [Data Quality] Non-numeric team number 'Team 1' in tutorial G-99
+1192. [Data Quality] Non-numeric team number 'Team 2' in tutorial G-99
+1193. [Data Quality] Non-numeric team number 'Team 3' in tutorial G-99
+1194. [Data Quality] Non-numeric team number 'Team 4' in tutorial G-99
+1195. [Data Quality] Non-numeric team number 'Team 5' in tutorial G-99
+1196. [Data Quality] Non-numeric team number 'Team 6' in tutorial G-99
+1197. [Data Quality] Non-numeric team number 'Team 7' in tutorial G-99
+1198. [Data Quality] Non-numeric team number 'Team 8' in tutorial G-99
+1199. [Data Quality] Non-numeric team number 'Team 9' in tutorial G-99
+1200. [Data Quality] Non-numeric team number 'Team 10' in tutorial G-99
+1201. [Gender Balance] Tutorial G-1, Team Team 3: M=1, F=4 (max: 3M/3F)
+1202. [Gender Balance] Tutorial G-10, Team Team 4: M=4, F=1 (max: 3M/3F)
+1203. [Gender Balance] Tutorial G-10, Team Team 10: M=1, F=4 (max: 3M/3F)
+1204. [Gender Balance] Tutorial G-100, Team Team 3: M=1, F=4 (max: 3M/3F)
+1205. [Gender Balance] Tutorial G-101, Team Team 10: M=1, F=4 (max: 3M/3F)
+1206. [Gender Balance] Tutorial G-102, Team Team 10: M=1, F=4 (max: 3M/3F)
+1207. [Gender Balance] Tutorial G-105, Team Team 5: M=1, F=4 (max: 3M/3F)
+1208. [Gender Balance] Tutorial G-106, Team Team 9: M=1, F=4 (max: 3M/3F)
+1209. [Gender Balance] Tutorial G-106, Team Team 10: M=1, F=4 (max: 3M/3F)
+1210. [Gender Balance] Tutorial G-107, Team Team 1: M=3, F=2 (max: 2M/4F)
+1211. [Gender Balance] Tutorial G-11, Team Team 6: M=1, F=4 (max: 3M/3F)
+1212. [Gender Balance] Tutorial G-114, Team Team 8: M=0, F=5 (max: 2M/4F)
+1213. [Gender Balance] Tutorial G-115, Team Team 10: M=1, F=4 (max: 3M/3F)
+1214. [Gender Balance] Tutorial G-116, Team Team 7: M=4, F=1 (max: 3M/3F)
+1215. [Gender Balance] Tutorial G-118, Team Team 3: M=4, F=1 (max: 3M/3F)
+1216. [Gender Balance] Tutorial G-119, Team Team 8: M=1, F=4 (max: 3M/3F)
+1217. [Gender Balance] Tutorial G-13, Team Team 7: M=1, F=4 (max: 3M/3F)
+1218. [Gender Balance] Tutorial G-15, Team Team 1: M=4, F=1 (max: 3M/3F)
+1219. [Gender Balance] Tutorial G-15, Team Team 2: M=4, F=1 (max: 3M/3F)
+1220. [Gender Balance] Tutorial G-16, Team Team 4: M=1, F=4 (max: 3M/3F)
+1221. [Gender Balance] Tutorial G-18, Team Team 9: M=3, F=2 (max: 2M/4F)
+1222. [Gender Balance] Tutorial G-19, Team Team 7: M=4, F=1 (max: 3M/3F)
+1223. [Gender Balance] Tutorial G-2, Team Team 7: M=3, F=2 (max: 2M/4F)
+1224. [Gender Balance] Tutorial G-20, Team Team 3: M=1, F=4 (max: 3M/3F)
+1225. [Gender Balance] Tutorial G-21, Team Team 4: M=1, F=4 (max: 3M/3F)
+1226. [Gender Balance] Tutorial G-21, Team Team 5: M=1, F=4 (max: 3M/3F)
+1227. [Gender Balance] Tutorial G-21, Team Team 9: M=1, F=4 (max: 3M/3F)
+1228. [Gender Balance] Tutorial G-22, Team Team 2: M=4, F=1 (max: 3M/3F)
+1229. [Gender Balance] Tutorial G-22, Team Team 8: M=1, F=4 (max: 3M/3F)
+1230. [Gender Balance] Tutorial G-22, Team Team 10: M=1, F=4 (max: 3M/3F)
+1231. [Gender Balance] Tutorial G-23, Team Team 10: M=1, F=4 (max: 3M/3F)
+1232. [Gender Balance] Tutorial G-24, Team Team 10: M=4, F=1 (max: 3M/3F)
+1233. [Gender Balance] Tutorial G-25, Team Team 8: M=3, F=2 (max: 2M/4F)
+1234. [Gender Balance] Tutorial G-28, Team Team 5: M=1, F=4 (max: 3M/3F)
+1235. [Gender Balance] Tutorial G-28, Team Team 6: M=1, F=4 (max: 3M/3F)
+1236. [Gender Balance] Tutorial G-29, Team Team 10: M=4, F=1 (max: 3M/3F)
+1237. [Gender Balance] Tutorial G-3, Team Team 9: M=1, F=4 (max: 3M/3F)
+1238. [Gender Balance] Tutorial G-30, Team Team 2: M=4, F=1 (max: 3M/3F)
+1239. [Gender Balance] Tutorial G-30, Team Team 7: M=1, F=4 (max: 3M/3F)
+1240. [Gender Balance] Tutorial G-31, Team Team 2: M=4, F=1 (max: 3M/3F)
+1241. [Gender Balance] Tutorial G-32, Team Team 7: M=4, F=1 (max: 3M/3F)
+1242. [Gender Balance] Tutorial G-33, Team Team 4: M=1, F=4 (max: 3M/3F)
+1243. [Gender Balance] Tutorial G-37, Team Team 5: M=1, F=4 (max: 3M/3F)
+1244. [Gender Balance] Tutorial G-37, Team Team 7: M=1, F=4 (max: 3M/3F)
+1245. [Gender Balance] Tutorial G-37, Team Team 10: M=1, F=4 (max: 3M/3F)
+1246. [Gender Balance] Tutorial G-42, Team Team 8: M=1, F=4 (max: 3M/3F)
+1247. [Gender Balance] Tutorial G-43, Team Team 8: M=4, F=1 (max: 3M/3F)
+1248. [Gender Balance] Tutorial G-43, Team Team 9: M=4, F=1 (max: 3M/3F)
+1249. [Gender Balance] Tutorial G-44, Team Team 8: M=4, F=1 (max: 3M/3F)
+1250. [Gender Balance] Tutorial G-45, Team Team 5: M=1, F=4 (max: 3M/3F)
+1251. [Gender Balance] Tutorial G-45, Team Team 9: M=1, F=4 (max: 3M/3F)
+1252. [Gender Balance] Tutorial G-47, Team Team 9: M=4, F=1 (max: 3M/3F)
+1253. [Gender Balance] Tutorial G-48, Team Team 7: M=4, F=1 (max: 3M/3F)
+1254. [Gender Balance] Tutorial G-49, Team Team 2: M=1, F=4 (max: 3M/3F)
+1255. [Gender Balance] Tutorial G-49, Team Team 7: M=1, F=4 (max: 3M/3F)
+1256. [Gender Balance] Tutorial G-5, Team Team 8: M=3, F=2 (max: 2M/4F)
+1257. [Gender Balance] Tutorial G-53, Team Team 4: M=1, F=4 (max: 3M/3F)
+1258. [Gender Balance] Tutorial G-53, Team Team 7: M=0, F=5 (max: 3M/3F)
+1259. [Gender Balance] Tutorial G-53, Team Team 9: M=4, F=1 (max: 3M/3F)
+1260. [Gender Balance] Tutorial G-55, Team Team 6: M=4, F=1 (max: 3M/3F)
+1261. [Gender Balance] Tutorial G-56, Team Team 6: M=3, F=2 (max: 2M/4F)
+1262. [Gender Balance] Tutorial G-56, Team Team 8: M=3, F=2 (max: 2M/4F)
+1263. [Gender Balance] Tutorial G-58, Team Team 9: M=1, F=4 (max: 3M/3F)
+1264. [Gender Balance] Tutorial G-59, Team Team 7: M=1, F=4 (max: 3M/3F)
+1265. [Gender Balance] Tutorial G-60, Team Team 9: M=1, F=4 (max: 3M/3F)
+1266. [Gender Balance] Tutorial G-61, Team Team 3: M=1, F=4 (max: 3M/3F)
+1267. [Gender Balance] Tutorial G-61, Team Team 5: M=1, F=4 (max: 3M/3F)
+1268. [Gender Balance] Tutorial G-63, Team Team 9: M=1, F=4 (max: 3M/3F)
+1269. [Gender Balance] Tutorial G-65, Team Team 5: M=1, F=4 (max: 3M/3F)
+1270. [Gender Balance] Tutorial G-67, Team Team 4: M=1, F=4 (max: 3M/3F)
+1271. [Gender Balance] Tutorial G-67, Team Team 9: M=1, F=4 (max: 3M/3F)
+1272. [Gender Balance] Tutorial G-67, Team Team 10: M=4, F=1 (max: 3M/3F)
+1273. [Gender Balance] Tutorial G-68, Team Team 6: M=1, F=4 (max: 3M/3F)
+1274. [Gender Balance] Tutorial G-7, Team Team 7: M=5, F=0 (max: 3M/3F)
+1275. [Gender Balance] Tutorial G-70, Team Team 10: M=3, F=2 (max: 2M/4F)
+1276. [Gender Balance] Tutorial G-71, Team Team 6: M=3, F=2 (max: 2M/4F)
+1277. [Gender Balance] Tutorial G-71, Team Team 8: M=3, F=2 (max: 2M/4F)
+1278. [Gender Balance] Tutorial G-71, Team Team 9: M=3, F=2 (max: 2M/4F)
+1279. [Gender Balance] Tutorial G-72, Team Team 5: M=4, F=1 (max: 3M/3F)
+1280. [Gender Balance] Tutorial G-74, Team Team 5: M=1, F=4 (max: 3M/3F)
+1281. [Gender Balance] Tutorial G-76, Team Team 6: M=1, F=4 (max: 3M/3F)
+1282. [Gender Balance] Tutorial G-76, Team Team 9: M=1, F=4 (max: 3M/3F)
+1283. [Gender Balance] Tutorial G-78, Team Team 9: M=1, F=4 (max: 3M/3F)
+1284. [Gender Balance] Tutorial G-79, Team Team 7: M=1, F=4 (max: 3M/3F)
+1285. [Gender Balance] Tutorial G-79, Team Team 8: M=1, F=4 (max: 3M/3F)
+1286. [Gender Balance] Tutorial G-8, Team Team 8: M=1, F=4 (max: 3M/3F)
+1287. [Gender Balance] Tutorial G-8, Team Team 10: M=1, F=4 (max: 3M/3F)
+1288. [Gender Balance] Tutorial G-81, Team Team 10: M=1, F=4 (max: 3M/3F)
+1289. [Gender Balance] Tutorial G-82, Team Team 6: M=1, F=4 (max: 3M/3F)
+1290. [Gender Balance] Tutorial G-82, Team Team 9: M=4, F=1 (max: 3M/3F)
+1291. [Gender Balance] Tutorial G-85, Team Team 8: M=4, F=1 (max: 3M/4F)
+1292. [Gender Balance] Tutorial G-86, Team Team 9: M=0, F=5 (max: 3M/3F)
+1293. [Gender Balance] Tutorial G-87, Team Team 2: M=1, F=4 (max: 3M/3F)
+1294. [Gender Balance] Tutorial G-87, Team Team 7: M=1, F=4 (max: 3M/3F)
+1295. [Gender Balance] Tutorial G-88, Team Team 10: M=5, F=0 (max: 3M/3F)
+1296. [Gender Balance] Tutorial G-9, Team Team 8: M=4, F=1 (max: 3M/3F)
+1297. [Gender Balance] Tutorial G-9, Team Team 10: M=0, F=5 (max: 3M/3F)
+1298. [Gender Balance] Tutorial G-90, Team Team 9: M=1, F=4 (max: 3M/3F)
+1299. [Gender Balance] Tutorial G-93, Team Team 9: M=1, F=4 (max: 3M/3F)
+1300. [Gender Balance] Tutorial G-94, Team Team 2: M=3, F=2 (max: 2M/4F)
+1301. [Gender Balance] Tutorial G-96, Team Team 3: M=1, F=4 (max: 3M/3F)
+1302. [Gender Balance] Tutorial G-96, Team Team 9: M=1, F=4 (max: 3M/3F)
+1303. [Gender Balance] Tutorial G-96, Team Team 10: M=1, F=4 (max: 3M/3F)
+1304. [Gender Balance] Tutorial G-98, Team Team 8: M=1, F=4 (max: 3M/3F)
+1305. [Gender Balance] Tutorial G-98, Team Team 9: M=4, F=1 (max: 3M/3F)
+1306. [Gender Balance] Tutorial G-99, Team Team 6: M=1, F=4 (max: 3M/3F)
+1307. [Gender Balance] Tutorial G-99, Team Team 10: M=1, F=4 (max: 3M/3F)
+1308. [Data Quality] CSV not sorted by STEM status: 3797 violation(s)
+
+ℹ️ INFO ISSUES (5):
+----------------------------------------------------------------------
+  1. [Data Quality] Row 4: EEE (STEM) appears after non-STEM schools
+  2. [Data Quality] Row 5: MSE (STEM) appears after non-STEM schools
+  3. [Data Quality] Row 6: CCDS (STEM) appears after non-STEM schools
+  4. [Data Quality] Row 8: CCDS (STEM) appears after non-STEM schools
+  5. [Data Quality] Row 9: MAE (STEM) appears after non-STEM schools
+
+
+
