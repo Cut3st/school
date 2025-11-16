@@ -80,4 +80,7 @@
 #     return False
     #ISSUE: NOT KNOWING WHAT BINARY SEARCH IS SO PLEASE BROTHER KNOW THIS SHIT
 
-print(binary_search_recursive([1, 4, 7, 9, 12, 15], 10))
+# def sort_by_age(people):
+#     age_sort = sorted(people, key=lambda x: x["age"])
+#     return age_sort
+    #ISSUE: not knowing how sorted() works note key=lambda tells u the following conditions is how i want it to be sorted
