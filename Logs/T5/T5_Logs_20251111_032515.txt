@@ -1,0 +1,105 @@
+================================================================================
+TEAM VALIDATION LOG
+================================================================================
+Timestamp: 2025-11-11 03:25:15
+CSV File:   C:/Users/User/OneDrive/Documents/GitHub/school/school/FCS1_Team2_Joshua.csv
+Team Size:  5
+Strictness: NIGHTMARE
+Score:      99.8% | Grade: A+ (Excellent)
+Issues:     32 (🚨0/⚠️26/ℹ️6)
+================================================================================
+
+[SUMMARY REPORT]
+--------------------------------------------------------------------------------
+======================================================================
+TEAM ALLOCATION VALIDATION SUMMARY (NIGHTMARE MODE)
+======================================================================
+
+✓ Strictness Level: NIGHTMARE
+✓ Total Issues Found: 32
+
+Total Students: 6000
+Total Teams:    1200
+Expected Size:  5
+
+TEAM SIZE DISTRIBUTION:
+----------------------------------------------------------------------
+⚠ Size 4:   10 teams (  0.8%)
+✓ Size 5: 1180 teams ( 98.3%)
+⚠ Size 6:   10 teams (  0.8%)
+
+======================================================================
+BALANCE SUMMARY
+======================================================================
+
+GENDER BALANCE:
+  ✓ Balanced:   1200 teams (100.0%)
+  ✗ Imbalanced:    0 teams (  0.0%)
+
+SCHOOL DIVERSITY:
+  ✓ Balanced:   1195 teams ( 99.6%)
+  ✗ Imbalanced:    5 teams (  0.4%)
+
+CGPA STATISTICS:
+  Average team mean: 4.089
+  Average team std:  0.099
+  Range: 3.954 to 4.298
+
+======================================================================
+OVERALL QUALITY SCORE
+======================================================================
+
+Gender Balance:     100.0%
+School Diversity:    99.6%
+CGPA Distribution:  100.0%
+----------------------------------------------------------------------
+FINAL SCORE:         99.8%
+GRADE:              A+ (Excellent)
+
+
+[CRITICAL ISSUES REPORT]
+--------------------------------------------------------------------------------
+======================================================================
+ALL ISSUES FOUND (32 total)
+======================================================================
+
+⚠️ WARNING ISSUES (26):
+----------------------------------------------------------------------
+  1. [Team Formation] Team size 6 differs from expected 5 (Tutorial G-1, Team 1)
+  2. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-1, Team 10)
+  3. [Team Formation] Team size 6 differs from expected 5 (Tutorial G-105, Team 71)
+  4. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-105, Team 78)
+  5. [Team Formation] Team size 6 differs from expected 5 (Tutorial G-113, Team 161)
+  6. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-113, Team 167)
+  7. [Team Formation] Team size 6 differs from expected 5 (Tutorial G-115, Team 181)
+  8. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-115, Team 190)
+  9. [School Diversity] Tutorial G-117, Team 205: CCDS has 4/5 members (max: 3)
+ 10. [School Diversity] Tutorial G-118, Team 217: EEE has 4/5 members (max: 3)
+ 11. [Team Formation] Team size 6 differs from expected 5 (Tutorial G-119, Team 221)
+ 12. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-119, Team 230)
+ 13. [School Diversity] Tutorial G-120, Team 244: CCDS has 4/5 members (max: 3)
+ 14. [Team Formation] Team size 6 differs from expected 5 (Tutorial G-19, Team 311)
+ 15. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-19, Team 319)
+ 16. [Team Formation] Team size 6 differs from expected 5 (Tutorial G-28, Team 413)
+ 17. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-28, Team 420)
+ 18. [School Diversity] Tutorial G-59, Team 752: CoB (NBS) has 4/5 members (max: 3)
+ 19. [Team Formation] Team size 6 differs from expected 5 (Tutorial G-9, Team 1093)
+ 20. [School Diversity] Tutorial G-9, Team 1095: EEE has 4/5 members (max: 3)
+ 21. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-9, Team 1100)
+ 22. [Team Formation] Team size 6 differs from expected 5 (Tutorial G-93, Team 1131)
+ 23. [Team Formation] Team size 6 differs from expected 5 (Tutorial G-93, Team 1132)
+ 24. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-93, Team 1136)
+ 25. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-93, Team 1137)
+ 26. [Data Quality] CSV not sorted by STEM status: 3796 violation(s)
+
+ℹ️ INFO ISSUES (6):
+----------------------------------------------------------------------
+  1. [CGPA Distribution] Potential outlier: Sari Rakhmawati (CGPA 4.79) in Tutorial G-93, Team 1131 (mean=4.20, std=0.29)
+  2. [Data Quality] Row 4: MAE (STEM) appears after non-STEM schools
+  3. [Data Quality] Row 8: CCDS (STEM) appears after non-STEM schools
+  4. [Data Quality] Row 11: CCDS (STEM) appears after non-STEM schools
+  5. [Data Quality] Row 14: SPMS (STEM) appears after non-STEM schools
+  6. [Data Quality] Row 15: EEE (STEM) appears after non-STEM schools
+
+
+

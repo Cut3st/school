@@ -1,0 +1,235 @@
+================================================================================
+TEAM VALIDATION LOG
+================================================================================
+Timestamp: 2025-11-11 04:25:54
+CSV File:   C:/Users/User/OneDrive/Documents/GitHub/school/school/FCS1_Team2_Joshua.csv
+Team Size:  5
+Strictness: NIGHTMARE
+Score:      75.8% | Grade: C+ (Needs Improvement)
+Issues:     159 (🚨26/⚠️128/ℹ️5)
+================================================================================
+
+[SUMMARY REPORT]
+--------------------------------------------------------------------------------
+======================================================================
+TEAM ALLOCATION VALIDATION SUMMARY (NIGHTMARE MODE)
+======================================================================
+
+✓ Strictness Level: NIGHTMARE
+✓ Total Issues Found: 159
+⚠️  Score Penalty: -20.0%
+
+Total Students: 6000
+Total Teams:    1200
+Expected Size:  5
+
+TEAM SIZE DISTRIBUTION:
+----------------------------------------------------------------------
+✓ Size 5: 1200 teams (100.0%)
+
+======================================================================
+BALANCE SUMMARY
+======================================================================
+
+GENDER BALANCE:
+  ✓ Balanced:   1073 teams ( 89.4%)
+  ✗ Imbalanced:  127 teams ( 10.6%)
+
+SCHOOL DIVERSITY:
+  ✓ Balanced:   1200 teams (100.0%)
+  ✗ Imbalanced:    0 teams (  0.0%)
+
+CGPA STATISTICS:
+  Average team mean: 4.089
+  Average team std:  0.105
+  Range: 3.992 to 4.278
+
+======================================================================
+OVERALL QUALITY SCORE
+======================================================================
+
+Gender Balance:      89.4%
+School Diversity:   100.0%
+CGPA Distribution:  100.0%
+Penalty:            -20.0%
+----------------------------------------------------------------------
+FINAL SCORE:         75.8%
+GRADE:              C+ (Needs Improvement)
+
+
+[CRITICAL ISSUES REPORT]
+--------------------------------------------------------------------------------
+======================================================================
+ALL ISSUES FOUND (159 total)
+======================================================================
+
+🚨 CRITICAL ISSUES (26):
+----------------------------------------------------------------------
+  1. [Gender Balance] Single-gender team detected: Tutorial G-10, Team 17 (M=5, F=0)
+  2. [Gender Balance] Single-gender team detected: Tutorial G-11, Team 128 (M=0, F=5)
+  3. [Gender Balance] Single-gender team detected: Tutorial G-117, Team 210 (M=0, F=5)
+  4. [Gender Balance] Single-gender team detected: Tutorial G-118, Team 215 (M=5, F=0)
+  5. [Gender Balance] Single-gender team detected: Tutorial G-13, Team 257 (M=0, F=5)
+  6. [Gender Balance] Single-gender team detected: Tutorial G-18, Team 305 (M=0, F=5)
+  7. [Gender Balance] Single-gender team detected: Tutorial G-2, Team 328 (M=0, F=5)
+  8. [Gender Balance] Single-gender team detected: Tutorial G-26, Team 399 (M=0, F=5)
+  9. [Gender Balance] Single-gender team detected: Tutorial G-27, Team 403 (M=0, F=5)
+ 10. [Gender Balance] Single-gender team detected: Tutorial G-35, Team 498 (M=0, F=5)
+ 11. [Gender Balance] Single-gender team detected: Tutorial G-37, Team 514 (M=0, F=5)
+ 12. [Gender Balance] Single-gender team detected: Tutorial G-38, Team 527 (M=0, F=5)
+ 13. [Gender Balance] Single-gender team detected: Tutorial G-39, Team 539 (M=0, F=5)
+ 14. [Gender Balance] Single-gender team detected: Tutorial G-4, Team 547 (M=0, F=5)
+ 15. [Gender Balance] Single-gender team detected: Tutorial G-45, Team 605 (M=0, F=5)
+ 16. [Gender Balance] Single-gender team detected: Tutorial G-5, Team 653 (M=0, F=5)
+ 17. [Gender Balance] Single-gender team detected: Tutorial G-51, Team 678 (M=0, F=5)
+ 18. [Gender Balance] Single-gender team detected: Tutorial G-58, Team 742 (M=0, F=5)
+ 19. [Gender Balance] Single-gender team detected: Tutorial G-68, Team 858 (M=0, F=5)
+ 20. [Gender Balance] Single-gender team detected: Tutorial G-73, Team 914 (M=0, F=5)
+ 21. [Gender Balance] Single-gender team detected: Tutorial G-77, Team 953 (M=0, F=5)
+ 22. [Gender Balance] Single-gender team detected: Tutorial G-81, Team 1005 (M=0, F=5)
+ 23. [Gender Balance] Single-gender team detected: Tutorial G-94, Team 1150 (M=0, F=5)
+ 24. [Gender Balance] Single-gender team detected: Tutorial G-95, Team 1153 (M=5, F=0)
+ 25. [Gender Balance] Single-gender team detected: Tutorial G-97, Team 1174 (M=0, F=5)
+ 26. [Gender Balance] Single-gender team detected: Tutorial G-97, Team 1178 (M=0, F=5)
+
+⚠️ WARNING ISSUES (128):
+----------------------------------------------------------------------
+  1. [Gender Balance] Tutorial G-1, Team 3: M=1, F=4 (max: 3M/3F)
+  2. [Gender Balance] Tutorial G-10, Team 17: M=5, F=0 (max: 3M/3F)
+  3. [Gender Balance] Tutorial G-100, Team 22: M=1, F=4 (max: 3M/3F)
+  4. [Gender Balance] Tutorial G-100, Team 26: M=1, F=4 (max: 3M/3F)
+  5. [Gender Balance] Tutorial G-101, Team 36: M=1, F=4 (max: 3M/3F)
+  6. [Gender Balance] Tutorial G-102, Team 46: M=1, F=4 (max: 3M/3F)
+  7. [Gender Balance] Tutorial G-105, Team 76: M=1, F=4 (max: 3M/3F)
+  8. [Gender Balance] Tutorial G-105, Team 80: M=1, F=4 (max: 3M/3F)
+  9. [Gender Balance] Tutorial G-106, Team 83: M=1, F=4 (max: 3M/3F)
+ 10. [Gender Balance] Tutorial G-107, Team 93: M=3, F=2 (max: 2M/4F)
+ 11. [Gender Balance] Tutorial G-107, Team 100: M=3, F=2 (max: 2M/4F)
+ 12. [Gender Balance] Tutorial G-11, Team 128: M=0, F=5 (max: 3M/3F)
+ 13. [Gender Balance] Tutorial G-111, Team 141: M=4, F=1 (max: 3M/3F)
+ 14. [Gender Balance] Tutorial G-114, Team 171: M=3, F=2 (max: 2M/4F)
+ 15. [Gender Balance] Tutorial G-115, Team 186: M=1, F=4 (max: 3M/3F)
+ 16. [Gender Balance] Tutorial G-116, Team 200: M=4, F=1 (max: 3M/3F)
+ 17. [Gender Balance] Tutorial G-117, Team 210: M=0, F=5 (max: 3M/4F)
+ 18. [Gender Balance] Tutorial G-118, Team 215: M=5, F=0 (max: 3M/3F)
+ 19. [Gender Balance] Tutorial G-119, Team 221: M=1, F=4 (max: 3M/3F)
+ 20. [Gender Balance] Tutorial G-119, Team 223: M=1, F=4 (max: 3M/3F)
+ 21. [Gender Balance] Tutorial G-12, Team 237: M=1, F=4 (max: 3M/3F)
+ 22. [Gender Balance] Tutorial G-13, Team 257: M=0, F=5 (max: 3M/3F)
+ 23. [Gender Balance] Tutorial G-14, Team 264: M=1, F=4 (max: 3M/3F)
+ 24. [Gender Balance] Tutorial G-15, Team 276: M=4, F=1 (max: 3M/3F)
+ 25. [Gender Balance] Tutorial G-18, Team 302: M=3, F=2 (max: 2M/4F)
+ 26. [Gender Balance] Tutorial G-18, Team 303: M=3, F=2 (max: 2M/4F)
+ 27. [Gender Balance] Tutorial G-18, Team 304: M=3, F=2 (max: 2M/4F)
+ 28. [Gender Balance] Tutorial G-18, Team 305: M=0, F=5 (max: 2M/4F)
+ 29. [Gender Balance] Tutorial G-2, Team 326: M=3, F=2 (max: 2M/4F)
+ 30. [Gender Balance] Tutorial G-2, Team 328: M=0, F=5 (max: 2M/4F)
+ 31. [Gender Balance] Tutorial G-20, Team 335: M=1, F=4 (max: 3M/3F)
+ 32. [Gender Balance] Tutorial G-21, Team 345: M=1, F=4 (max: 3M/3F)
+ 33. [Gender Balance] Tutorial G-21, Team 348: M=1, F=4 (max: 3M/3F)
+ 34. [Gender Balance] Tutorial G-22, Team 353: M=1, F=4 (max: 3M/3F)
+ 35. [Gender Balance] Tutorial G-23, Team 367: M=1, F=4 (max: 3M/3F)
+ 36. [Gender Balance] Tutorial G-24, Team 372: M=4, F=1 (max: 3M/3F)
+ 37. [Gender Balance] Tutorial G-24, Team 378: M=4, F=1 (max: 3M/3F)
+ 38. [Gender Balance] Tutorial G-25, Team 383: M=3, F=2 (max: 2M/4F)
+ 39. [Gender Balance] Tutorial G-26, Team 392: M=3, F=2 (max: 2M/4F)
+ 40. [Gender Balance] Tutorial G-26, Team 394: M=3, F=2 (max: 2M/4F)
+ 41. [Gender Balance] Tutorial G-26, Team 398: M=3, F=2 (max: 2M/4F)
+ 42. [Gender Balance] Tutorial G-26, Team 399: M=0, F=5 (max: 2M/4F)
+ 43. [Gender Balance] Tutorial G-27, Team 403: M=0, F=5 (max: 3M/4F)
+ 44. [Gender Balance] Tutorial G-29, Team 430: M=4, F=1 (max: 3M/3F)
+ 45. [Gender Balance] Tutorial G-3, Team 437: M=1, F=4 (max: 3M/3F)
+ 46. [Gender Balance] Tutorial G-35, Team 498: M=0, F=5 (max: 3M/4F)
+ 47. [Gender Balance] Tutorial G-37, Team 514: M=0, F=5 (max: 3M/3F)
+ 48. [Gender Balance] Tutorial G-38, Team 527: M=0, F=5 (max: 3M/4F)
+ 49. [Gender Balance] Tutorial G-39, Team 532: M=3, F=2 (max: 2M/4F)
+ 50. [Gender Balance] Tutorial G-39, Team 539: M=0, F=5 (max: 2M/4F)
+ 51. [Gender Balance] Tutorial G-4, Team 541: M=3, F=2 (max: 2M/4F)
+ 52. [Gender Balance] Tutorial G-4, Team 544: M=3, F=2 (max: 2M/4F)
+ 53. [Gender Balance] Tutorial G-4, Team 547: M=0, F=5 (max: 2M/4F)
+ 54. [Gender Balance] Tutorial G-40, Team 559: M=1, F=4 (max: 3M/3F)
+ 55. [Gender Balance] Tutorial G-41, Team 568: M=1, F=4 (max: 3M/3F)
+ 56. [Gender Balance] Tutorial G-42, Team 579: M=1, F=4 (max: 3M/3F)
+ 57. [Gender Balance] Tutorial G-43, Team 583: M=4, F=1 (max: 3M/3F)
+ 58. [Gender Balance] Tutorial G-45, Team 605: M=0, F=5 (max: 3M/3F)
+ 59. [Gender Balance] Tutorial G-47, Team 624: M=1, F=4 (max: 3M/3F)
+ 60. [Gender Balance] Tutorial G-49, Team 641: M=1, F=4 (max: 3M/3F)
+ 61. [Gender Balance] Tutorial G-49, Team 650: M=1, F=4 (max: 3M/3F)
+ 62. [Gender Balance] Tutorial G-5, Team 651: M=3, F=2 (max: 2M/4F)
+ 63. [Gender Balance] Tutorial G-5, Team 653: M=0, F=5 (max: 2M/4F)
+ 64. [Gender Balance] Tutorial G-51, Team 678: M=0, F=5 (max: 3M/4F)
+ 65. [Gender Balance] Tutorial G-55, Team 712: M=4, F=1 (max: 3M/3F)
+ 66. [Gender Balance] Tutorial G-55, Team 718: M=4, F=1 (max: 3M/3F)
+ 67. [Gender Balance] Tutorial G-56, Team 726: M=3, F=2 (max: 2M/4F)
+ 68. [Gender Balance] Tutorial G-57, Team 733: M=1, F=4 (max: 3M/3F)
+ 69. [Gender Balance] Tutorial G-58, Team 742: M=0, F=5 (max: 3M/3F)
+ 70. [Gender Balance] Tutorial G-59, Team 752: M=1, F=4 (max: 3M/3F)
+ 71. [Gender Balance] Tutorial G-59, Team 757: M=1, F=4 (max: 3M/3F)
+ 72. [Gender Balance] Tutorial G-60, Team 779: M=1, F=4 (max: 3M/3F)
+ 73. [Gender Balance] Tutorial G-61, Team 788: M=1, F=4 (max: 3M/3F)
+ 74. [Gender Balance] Tutorial G-61, Team 789: M=1, F=4 (max: 3M/3F)
+ 75. [Gender Balance] Tutorial G-62, Team 791: M=4, F=1 (max: 3M/3F)
+ 76. [Gender Balance] Tutorial G-63, Team 810: M=1, F=4 (max: 3M/3F)
+ 77. [Gender Balance] Tutorial G-64, Team 819: M=4, F=1 (max: 3M/3F)
+ 78. [Gender Balance] Tutorial G-67, Team 845: M=1, F=4 (max: 3M/3F)
+ 79. [Gender Balance] Tutorial G-67, Team 846: M=1, F=4 (max: 3M/3F)
+ 80. [Gender Balance] Tutorial G-68, Team 851: M=1, F=4 (max: 3M/3F)
+ 81. [Gender Balance] Tutorial G-68, Team 858: M=0, F=5 (max: 3M/3F)
+ 82. [Gender Balance] Tutorial G-68, Team 860: M=1, F=4 (max: 3M/3F)
+ 83. [Gender Balance] Tutorial G-7, Team 876: M=4, F=1 (max: 3M/3F)
+ 84. [Gender Balance] Tutorial G-70, Team 881: M=3, F=2 (max: 2M/4F)
+ 85. [Gender Balance] Tutorial G-71, Team 896: M=3, F=2 (max: 2M/4F)
+ 86. [Gender Balance] Tutorial G-71, Team 900: M=3, F=2 (max: 2M/4F)
+ 87. [Gender Balance] Tutorial G-72, Team 902: M=4, F=1 (max: 3M/3F)
+ 88. [Gender Balance] Tutorial G-73, Team 914: M=0, F=5 (max: 3M/4F)
+ 89. [Gender Balance] Tutorial G-74, Team 930: M=4, F=1 (max: 3M/3F)
+ 90. [Gender Balance] Tutorial G-75, Team 933: M=1, F=4 (max: 3M/3F)
+ 91. [Gender Balance] Tutorial G-76, Team 944: M=1, F=4 (max: 3M/3F)
+ 92. [Gender Balance] Tutorial G-76, Team 949: M=1, F=4 (max: 3M/3F)
+ 93. [Gender Balance] Tutorial G-77, Team 953: M=0, F=5 (max: 3M/4F)
+ 94. [Gender Balance] Tutorial G-78, Team 968: M=1, F=4 (max: 3M/3F)
+ 95. [Gender Balance] Tutorial G-78, Team 970: M=1, F=4 (max: 3M/3F)
+ 96. [Gender Balance] Tutorial G-79, Team 978: M=1, F=4 (max: 3M/3F)
+ 97. [Gender Balance] Tutorial G-79, Team 979: M=1, F=4 (max: 3M/3F)
+ 98. [Gender Balance] Tutorial G-8, Team 981: M=1, F=4 (max: 3M/3F)
+ 99. [Gender Balance] Tutorial G-8, Team 989: M=1, F=4 (max: 3M/3F)
+100. [Gender Balance] Tutorial G-80, Team 999: M=1, F=4 (max: 3M/3F)
+101. [Gender Balance] Tutorial G-81, Team 1005: M=0, F=5 (max: 3M/3F)
+102. [Gender Balance] Tutorial G-81, Team 1006: M=1, F=4 (max: 3M/3F)
+103. [Gender Balance] Tutorial G-82, Team 1018: M=4, F=1 (max: 3M/3F)
+104. [Gender Balance] Tutorial G-82, Team 1019: M=4, F=1 (max: 3M/3F)
+105. [Gender Balance] Tutorial G-82, Team 1020: M=4, F=1 (max: 3M/3F)
+106. [Gender Balance] Tutorial G-86, Team 1059: M=1, F=4 (max: 3M/3F)
+107. [Gender Balance] Tutorial G-87, Team 1062: M=1, F=4 (max: 3M/3F)
+108. [Gender Balance] Tutorial G-88, Team 1076: M=4, F=1 (max: 3M/3F)
+109. [Gender Balance] Tutorial G-88, Team 1077: M=4, F=1 (max: 3M/3F)
+110. [Gender Balance] Tutorial G-89, Team 1082: M=1, F=4 (max: 3M/3F)
+111. [Gender Balance] Tutorial G-9, Team 1100: M=1, F=4 (max: 3M/3F)
+112. [Gender Balance] Tutorial G-91, Team 1117: M=4, F=1 (max: 3M/3F)
+113. [Gender Balance] Tutorial G-93, Team 1132: M=1, F=4 (max: 3M/3F)
+114. [Gender Balance] Tutorial G-93, Team 1133: M=1, F=4 (max: 3M/3F)
+115. [Gender Balance] Tutorial G-94, Team 1142: M=3, F=2 (max: 2M/4F)
+116. [Gender Balance] Tutorial G-94, Team 1143: M=3, F=2 (max: 2M/4F)
+117. [Gender Balance] Tutorial G-94, Team 1150: M=0, F=5 (max: 2M/4F)
+118. [Gender Balance] Tutorial G-95, Team 1153: M=5, F=0 (max: 4M/3F)
+119. [Gender Balance] Tutorial G-96, Team 1162: M=1, F=4 (max: 3M/3F)
+120. [Gender Balance] Tutorial G-96, Team 1164: M=1, F=4 (max: 3M/3F)
+121. [Gender Balance] Tutorial G-96, Team 1168: M=1, F=4 (max: 3M/3F)
+122. [Gender Balance] Tutorial G-97, Team 1174: M=0, F=5 (max: 2M/4F)
+123. [Gender Balance] Tutorial G-97, Team 1176: M=3, F=2 (max: 2M/4F)
+124. [Gender Balance] Tutorial G-97, Team 1178: M=0, F=5 (max: 2M/4F)
+125. [Gender Balance] Tutorial G-98, Team 1187: M=4, F=1 (max: 3M/3F)
+126. [Gender Balance] Tutorial G-99, Team 1192: M=1, F=4 (max: 3M/3F)
+127. [Gender Balance] Tutorial G-99, Team 1200: M=1, F=4 (max: 3M/3F)
+128. [Data Quality] CSV not sorted by STEM status: 3796 violation(s)
+
+ℹ️ INFO ISSUES (5):
+----------------------------------------------------------------------
+  1. [Data Quality] Row 5: MAE (STEM) appears after non-STEM schools
+  2. [Data Quality] Row 6: MSE (STEM) appears after non-STEM schools
+  3. [Data Quality] Row 7: EEE (STEM) appears after non-STEM schools
+  4. [Data Quality] Row 8: MAE (STEM) appears after non-STEM schools
+  5. [Data Quality] Row 10: EEE (STEM) appears after non-STEM schools
+
+
+

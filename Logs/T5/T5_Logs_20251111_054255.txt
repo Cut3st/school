@@ -1,0 +1,100 @@
+================================================================================
+TEAM VALIDATION LOG
+================================================================================
+Timestamp: 2025-11-11 05:42:55
+CSV File:   C:/Users/User/OneDrive/Documents/GitHub/school/school/FCS1_Team2_Joshua.csv
+Team Size:  5
+Strictness: NIGHTMARE
+Score:      97.5% | Grade: A+ (Excellent)
+Issues:     24 (🚨1/⚠️17/ℹ️6)
+================================================================================
+
+[SUMMARY REPORT]
+--------------------------------------------------------------------------------
+======================================================================
+TEAM ALLOCATION VALIDATION SUMMARY (NIGHTMARE MODE)
+======================================================================
+
+✓ Strictness Level: NIGHTMARE
+✓ Total Issues Found: 24
+⚠️  Score Penalty: -2.0%
+
+Total Students: 6000
+Total Teams:    1200
+Expected Size:  5
+
+TEAM SIZE DISTRIBUTION:
+----------------------------------------------------------------------
+✓ Size 5: 1200 teams (100.0%)
+
+======================================================================
+BALANCE SUMMARY
+======================================================================
+
+GENDER BALANCE:
+  ✓ Balanced:   1185 teams ( 98.8%)
+  ✗ Imbalanced:   15 teams (  1.2%)
+
+SCHOOL DIVERSITY:
+  ✓ Balanced:   1199 teams ( 99.9%)
+  ✗ Imbalanced:    1 teams (  0.1%)
+
+CGPA STATISTICS:
+  Average team mean: 4.089
+  Average team std:  0.097
+  Range: 3.914 to 4.358
+
+======================================================================
+OVERALL QUALITY SCORE
+======================================================================
+
+Gender Balance:      98.8%
+School Diversity:    99.9%
+CGPA Distribution:  100.0%
+Penalty:            -2.0%
+----------------------------------------------------------------------
+FINAL SCORE:         97.5%
+GRADE:              A+ (Excellent)
+
+
+[CRITICAL ISSUES REPORT]
+--------------------------------------------------------------------------------
+======================================================================
+ALL ISSUES FOUND (24 total)
+======================================================================
+
+🚨 CRITICAL ISSUES (1):
+----------------------------------------------------------------------
+  1. [Gender Balance] Single-gender team detected: Tutorial G-97, Team 1180 (M=0, F=5)
+
+⚠️ WARNING ISSUES (17):
+----------------------------------------------------------------------
+  1. [Gender Balance] Tutorial G-10, Team 20: M=4, F=1 (max: 3M/3F)
+  2. [Gender Balance] Tutorial G-107, Team 97: M=3, F=2 (max: 2M/4F)
+  3. [Gender Balance] Tutorial G-15, Team 280: M=4, F=1 (max: 3M/3F)
+  4. [Gender Balance] Tutorial G-2, Team 329: M=3, F=2 (max: 2M/4F)
+  5. [Gender Balance] Tutorial G-2, Team 330: M=3, F=2 (max: 2M/4F)
+  6. [Gender Balance] Tutorial G-34, Team 490: M=1, F=4 (max: 3M/3F)
+  7. [Gender Balance] Tutorial G-43, Team 590: M=4, F=1 (max: 3M/3F)
+  8. [Gender Balance] Tutorial G-53, Team 700: M=1, F=4 (max: 3M/3F)
+  9. [School Diversity] Tutorial G-54, Team 709: CCDS has 4/5 members (max: 3)
+ 10. [Gender Balance] Tutorial G-64, Team 820: M=4, F=1 (max: 3M/3F)
+ 11. [Gender Balance] Tutorial G-88, Team 1080: M=4, F=1 (max: 3M/3F)
+ 12. [Gender Balance] Tutorial G-9, Team 1098: M=1, F=4 (max: 3M/3F)
+ 13. [Gender Balance] Tutorial G-97, Team 1175: M=3, F=2 (max: 2M/4F)
+ 14. [Gender Balance] Tutorial G-97, Team 1176: M=3, F=2 (max: 2M/4F)
+ 15. [Gender Balance] Tutorial G-97, Team 1180: M=0, F=5 (max: 2M/4F)
+ 16. [Gender Balance] Tutorial G-98, Team 1190: M=4, F=1 (max: 3M/3F)
+ 17. [Data Quality] CSV not sorted by STEM status: 3797 violation(s)
+
+ℹ️ INFO ISSUES (6):
+----------------------------------------------------------------------
+  1. [CGPA Distribution] Potential outlier: Nadeem Ali (CGPA 4.04) in Tutorial G-29, Team 428 (mean=4.03, std=0.00)
+  2. [Data Quality] Row 3: EEE (STEM) appears after non-STEM schools
+  3. [Data Quality] Row 4: SBS (STEM) appears after non-STEM schools
+  4. [Data Quality] Row 5: EEE (STEM) appears after non-STEM schools
+  5. [Data Quality] Row 6: CCDS (STEM) appears after non-STEM schools
+  6. [Data Quality] Row 7: EEE (STEM) appears after non-STEM schools
+
+
+

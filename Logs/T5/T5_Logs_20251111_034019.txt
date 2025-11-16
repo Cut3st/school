@@ -1,0 +1,316 @@
+================================================================================
+TEAM VALIDATION LOG
+================================================================================
+Timestamp: 2025-11-11 03:40:19
+CSV File:   C:/Users/User/OneDrive/Documents/GitHub/school/school/FCS1_Team2_Joshua.csv
+Team Size:  5
+Strictness: NIGHTMARE
+Score:      79.7% | Grade: C+ (Needs Improvement)
+Issues:     235 (🚨92/⚠️138/ℹ️5)
+================================================================================
+
+[SUMMARY REPORT]
+--------------------------------------------------------------------------------
+======================================================================
+TEAM ALLOCATION VALIDATION SUMMARY (NIGHTMARE MODE)
+======================================================================
+
+✓ Strictness Level: NIGHTMARE
+✓ Total Issues Found: 235
+⚠️  Score Penalty: -20.0%
+
+Total Students: 6000
+Total Teams:    1244
+Expected Size:  5
+
+TEAM SIZE DISTRIBUTION:
+----------------------------------------------------------------------
+⚠ Size 1:   18 teams (  1.4%)
+⚠ Size 2:   14 teams (  1.1%)
+⚠ Size 3:   13 teams (  1.0%)
+⚠ Size 4:   82 teams (  6.6%)
+✓ Size 5: 1115 teams ( 89.6%)
+⚠ Size 6:    2 teams (  0.2%)
+
+======================================================================
+BALANCE SUMMARY
+======================================================================
+
+GENDER BALANCE:
+  ✓ Balanced:   1239 teams ( 99.6%)
+  ✗ Imbalanced:    5 teams (  0.4%)
+
+SCHOOL DIVERSITY:
+  ✓ Balanced:   1240 teams ( 99.7%)
+  ✗ Imbalanced:    4 teams (  0.3%)
+
+CGPA STATISTICS:
+  Average team mean: 4.089
+  Average team std:  0.097
+  Range: 3.926 to 4.338
+
+======================================================================
+OVERALL QUALITY SCORE
+======================================================================
+
+Gender Balance:      99.6%
+School Diversity:    99.7%
+CGPA Distribution:  100.0%
+Penalty:            -20.0%
+----------------------------------------------------------------------
+FINAL SCORE:         79.7%
+GRADE:              C+ (Needs Improvement)
+
+
+[CRITICAL ISSUES REPORT]
+--------------------------------------------------------------------------------
+======================================================================
+ALL ISSUES FOUND (235 total)
+======================================================================
+
+🚨 CRITICAL ISSUES (92):
+----------------------------------------------------------------------
+  1. [Team Formation] Team size 1 deviates significantly from expected 5 (Tutorial G-10, Team 0)
+  2. [Gender Balance] Single-gender team detected: Tutorial G-10, Team 0 (M=1, F=0)
+  3. [Team Formation] Team size 2 deviates significantly from expected 5 (Tutorial G-101, Team 0)
+  4. [Gender Balance] Single-gender team detected: Tutorial G-101, Team 0 (M=0, F=2)
+  5. [Team Formation] Team size 3 deviates significantly from expected 5 (Tutorial G-102, Team 0)
+  6. [Gender Balance] Single-gender team detected: Tutorial G-102, Team 0 (M=0, F=3)
+  7. [Team Formation] Team size 3 deviates significantly from expected 5 (Tutorial G-104, Team 0)
+  8. [Gender Balance] Single-gender team detected: Tutorial G-104, Team 0 (M=0, F=3)
+  9. [Gender Balance] Single-gender team detected: Tutorial G-107, Team 0 (M=0, F=4)
+ 10. [Team Formation] Team size 1 deviates significantly from expected 5 (Tutorial G-111, Team 0)
+ 11. [Gender Balance] Single-gender team detected: Tutorial G-111, Team 0 (M=1, F=0)
+ 12. [Team Formation] Team size 1 deviates significantly from expected 5 (Tutorial G-113, Team 0)
+ 13. [Gender Balance] Single-gender team detected: Tutorial G-113, Team 0 (M=0, F=1)
+ 14. [Team Formation] Team size 1 deviates significantly from expected 5 (Tutorial G-114, Team 0)
+ 15. [Gender Balance] Single-gender team detected: Tutorial G-114, Team 0 (M=0, F=1)
+ 16. [Team Formation] Team size 1 deviates significantly from expected 5 (Tutorial G-118, Team 0)
+ 17. [Gender Balance] Single-gender team detected: Tutorial G-118, Team 0 (M=1, F=0)
+ 18. [Team Formation] Team size 2 deviates significantly from expected 5 (Tutorial G-119, Team 0)
+ 19. [Gender Balance] Single-gender team detected: Tutorial G-119, Team 0 (M=0, F=2)
+ 20. [Team Formation] Team size 1 deviates significantly from expected 5 (Tutorial G-120, Team 0)
+ 21. [Gender Balance] Single-gender team detected: Tutorial G-120, Team 0 (M=1, F=0)
+ 22. [Gender Balance] Single-gender team detected: Tutorial G-15, Team 0 (M=4, F=0)
+ 23. [Team Formation] Team size 3 deviates significantly from expected 5 (Tutorial G-15, Team 275)
+ 24. [Team Formation] Team size 1 deviates significantly from expected 5 (Tutorial G-23, Team 0)
+ 25. [Gender Balance] Single-gender team detected: Tutorial G-23, Team 0 (M=0, F=1)
+ 26. [Team Formation] Team size 2 deviates significantly from expected 5 (Tutorial G-24, Team 0)
+ 27. [Gender Balance] Single-gender team detected: Tutorial G-24, Team 0 (M=2, F=0)
+ 28. [Team Formation] Team size 1 deviates significantly from expected 5 (Tutorial G-26, Team 0)
+ 29. [Gender Balance] Single-gender team detected: Tutorial G-26, Team 0 (M=0, F=1)
+ 30. [Team Formation] Team size 3 deviates significantly from expected 5 (Tutorial G-29, Team 0)
+ 31. [Gender Balance] Single-gender team detected: Tutorial G-29, Team 0 (M=0, F=3)
+ 32. [Team Formation] Team size 1 deviates significantly from expected 5 (Tutorial G-31, Team 0)
+ 33. [Gender Balance] Single-gender team detected: Tutorial G-31, Team 0 (M=0, F=1)
+ 34. [Gender Balance] Single-gender team detected: Tutorial G-39, Team 0 (M=0, F=4)
+ 35. [Team Formation] Team size 1 deviates significantly from expected 5 (Tutorial G-41, Team 0)
+ 36. [Gender Balance] Single-gender team detected: Tutorial G-41, Team 0 (M=0, F=1)
+ 37. [Team Formation] Team size 1 deviates significantly from expected 5 (Tutorial G-42, Team 0)
+ 38. [Gender Balance] Single-gender team detected: Tutorial G-42, Team 0 (M=0, F=1)
+ 39. [Team Formation] Team size 1 deviates significantly from expected 5 (Tutorial G-43, Team 0)
+ 40. [Gender Balance] Single-gender team detected: Tutorial G-43, Team 0 (M=1, F=0)
+ 41. [Gender Balance] Single-gender team detected: Tutorial G-44, Team 0 (M=4, F=0)
+ 42. [Team Formation] Team size 3 deviates significantly from expected 5 (Tutorial G-44, Team 599)
+ 43. [Team Formation] Team size 3 deviates significantly from expected 5 (Tutorial G-52, Team 0)
+ 44. [Gender Balance] Single-gender team detected: Tutorial G-52, Team 0 (M=0, F=3)
+ 45. [Team Formation] Team size 2 deviates significantly from expected 5 (Tutorial G-53, Team 0)
+ 46. [Gender Balance] Single-gender team detected: Tutorial G-53, Team 0 (M=0, F=2)
+ 47. [Gender Balance] Single-gender team detected: Tutorial G-55, Team 0 (M=6, F=0)
+ 48. [Team Formation] Team size 3 deviates significantly from expected 5 (Tutorial G-55, Team 713)
+ 49. [Team Formation] Team size 3 deviates significantly from expected 5 (Tutorial G-55, Team 714)
+ 50. [Team Formation] Team size 2 deviates significantly from expected 5 (Tutorial G-59, Team 0)
+ 51. [Gender Balance] Single-gender team detected: Tutorial G-59, Team 0 (M=0, F=2)
+ 52. [Team Formation] Team size 1 deviates significantly from expected 5 (Tutorial G-6, Team 0)
+ 53. [Gender Balance] Single-gender team detected: Tutorial G-6, Team 0 (M=0, F=1)
+ 54. [Gender Balance] Single-gender team detected: Tutorial G-61, Team 0 (M=0, F=6)
+ 55. [Team Formation] Team size 3 deviates significantly from expected 5 (Tutorial G-61, Team 783)
+ 56. [School Diversity] All members from same school: Tutorial G-61, Team 783 (CoB (NBS))
+ 57. [Team Formation] Team size 3 deviates significantly from expected 5 (Tutorial G-61, Team 785)
+ 58. [Team Formation] Team size 2 deviates significantly from expected 5 (Tutorial G-63, Team 0)
+ 59. [Gender Balance] Single-gender team detected: Tutorial G-63, Team 0 (M=0, F=2)
+ 60. [Team Formation] Team size 1 deviates significantly from expected 5 (Tutorial G-68, Team 0)
+ 61. [Gender Balance] Single-gender team detected: Tutorial G-68, Team 0 (M=0, F=1)
+ 62. [Team Formation] Team size 1 deviates significantly from expected 5 (Tutorial G-7, Team 0)
+ 63. [Gender Balance] Single-gender team detected: Tutorial G-7, Team 0 (M=1, F=0)
+ 64. [Team Formation] Team size 2 deviates significantly from expected 5 (Tutorial G-70, Team 0)
+ 65. [Gender Balance] Single-gender team detected: Tutorial G-70, Team 0 (M=0, F=2)
+ 66. [Team Formation] Team size 3 deviates significantly from expected 5 (Tutorial G-70, Team 884)
+ 67. [Team Formation] Team size 2 deviates significantly from expected 5 (Tutorial G-71, Team 0)
+ 68. [Gender Balance] Single-gender team detected: Tutorial G-71, Team 0 (M=0, F=2)
+ 69. [School Diversity] All members from same school: Tutorial G-71, Team 0 (EEE)
+ 70. [Gender Balance] Single-gender team detected: Tutorial G-72, Team 0 (M=4, F=0)
+ 71. [Team Formation] Team size 2 deviates significantly from expected 5 (Tutorial G-83, Team 0)
+ 72. [Gender Balance] Single-gender team detected: Tutorial G-83, Team 0 (M=2, F=0)
+ 73. [Team Formation] Team size 3 deviates significantly from expected 5 (Tutorial G-83, Team 1024)
+ 74. [Team Formation] Team size 2 deviates significantly from expected 5 (Tutorial G-85, Team 0)
+ 75. [Gender Balance] Single-gender team detected: Tutorial G-85, Team 0 (M=0, F=2)
+ 76. [Team Formation] Team size 2 deviates significantly from expected 5 (Tutorial G-86, Team 0)
+ 77. [Gender Balance] Single-gender team detected: Tutorial G-86, Team 0 (M=0, F=2)
+ 78. [Team Formation] Team size 3 deviates significantly from expected 5 (Tutorial G-87, Team 0)
+ 79. [Gender Balance] Single-gender team detected: Tutorial G-87, Team 0 (M=0, F=3)
+ 80. [Team Formation] Team size 2 deviates significantly from expected 5 (Tutorial G-88, Team 0)
+ 81. [Gender Balance] Single-gender team detected: Tutorial G-88, Team 0 (M=2, F=0)
+ 82. [Team Formation] Team size 2 deviates significantly from expected 5 (Tutorial G-9, Team 0)
+ 83. [Gender Balance] Single-gender team detected: Tutorial G-9, Team 0 (M=0, F=2)
+ 84. [Team Formation] Team size 1 deviates significantly from expected 5 (Tutorial G-93, Team 0)
+ 85. [Gender Balance] Single-gender team detected: Tutorial G-93, Team 0 (M=0, F=1)
+ 86. [Team Formation] Team size 1 deviates significantly from expected 5 (Tutorial G-95, Team 0)
+ 87. [Gender Balance] Single-gender team detected: Tutorial G-95, Team 0 (M=1, F=0)
+ 88. [Team Formation] Team size 1 deviates significantly from expected 5 (Tutorial G-96, Team 0)
+ 89. [Gender Balance] Single-gender team detected: Tutorial G-96, Team 0 (M=0, F=1)
+ 90. [Team Formation] Team size 2 deviates significantly from expected 5 (Tutorial G-98, Team 0)
+ 91. [Gender Balance] Single-gender team detected: Tutorial G-98, Team 0 (M=2, F=0)
+ 92. [School Diversity] All members from same school: Tutorial G-98, Team 0 (CCDS)
+
+⚠️ WARNING ISSUES (138):
+----------------------------------------------------------------------
+  1. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-10, Team 13)
+  2. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-101, Team 31)
+  3. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-101, Team 40)
+  4. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-102, Team 42)
+  5. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-102, Team 46)
+  6. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-102, Team 50)
+  7. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-104, Team 64)
+  8. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-104, Team 65)
+  9. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-104, Team 66)
+ 10. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-107, Team 0)
+ 11. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-107, Team 91)
+ 12. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-107, Team 97)
+ 13. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-107, Team 99)
+ 14. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-107, Team 100)
+ 15. [School Diversity] Tutorial G-108, Team 103: CCDS has 4/5 members (max: 3)
+ 16. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-111, Team 142)
+ 17. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-113, Team 169)
+ 18. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-114, Team 171)
+ 19. [School Diversity] Tutorial G-117, Team 205: CCDS has 4/5 members (max: 3)
+ 20. [School Diversity] Tutorial G-118, Team 211: CoB (NBS) has 4/5 members (max: 3)
+ 21. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-118, Team 213)
+ 22. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-119, Team 227)
+ 23. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-119, Team 230)
+ 24. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-120, Team 244)
+ 25. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-15, Team 0)
+ 26. [Gender Balance] Tutorial G-15, Team 0: M=4, F=0 (max: 3M/3F)
+ 27. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-15, Team 273)
+ 28. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-15, Team 280)
+ 29. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-23, Team 365)
+ 30. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-24, Team 372)
+ 31. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-24, Team 378)
+ 32. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-26, Team 398)
+ 33. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-29, Team 424)
+ 34. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-29, Team 426)
+ 35. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-29, Team 429)
+ 36. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-31, Team 460)
+ 37. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-39, Team 0)
+ 38. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-39, Team 532)
+ 39. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-39, Team 533)
+ 40. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-39, Team 537)
+ 41. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-39, Team 540)
+ 42. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-41, Team 568)
+ 43. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-42, Team 573)
+ 44. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-43, Team 584)
+ 45. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-44, Team 0)
+ 46. [Gender Balance] Tutorial G-44, Team 0: M=4, F=0 (max: 3M/3F)
+ 47. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-44, Team 592)
+ 48. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-44, Team 597)
+ 49. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-52, Team 681)
+ 50. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-52, Team 685)
+ 51. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-52, Team 690)
+ 52. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-53, Team 693)
+ 53. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-53, Team 697)
+ 54. [Team Formation] Team size 6 differs from expected 5 (Tutorial G-55, Team 0)
+ 55. [Gender Balance] Tutorial G-55, Team 0: M=6, F=0 (max: 3M/3F)
+ 56. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-55, Team 719)
+ 57. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-55, Team 720)
+ 58. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-59, Team 752)
+ 59. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-59, Team 754)
+ 60. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-6, Team 761)
+ 61. [Team Formation] Team size 6 differs from expected 5 (Tutorial G-61, Team 0)
+ 62. [Gender Balance] Tutorial G-61, Team 0: M=0, F=6 (max: 3M/3F)
+ 63. [School Diversity] Tutorial G-61, Team 783: CoB (NBS) has 3/3 members (max: 2)
+ 64. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-61, Team 789)
+ 65. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-61, Team 790)
+ 66. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-63, Team 804)
+ 67. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-63, Team 810)
+ 68. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-68, Team 857)
+ 69. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-7, Team 875)
+ 70. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-71, Team 896)
+ 71. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-71, Team 899)
+ 72. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-72, Team 0)
+ 73. [Gender Balance] Tutorial G-72, Team 0: M=4, F=0 (max: 3M/3F)
+ 74. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-72, Team 902)
+ 75. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-72, Team 908)
+ 76. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-72, Team 909)
+ 77. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-72, Team 910)
+ 78. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-85, Team 1041)
+ 79. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-85, Team 1042)
+ 80. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-86, Team 1055)
+ 81. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-86, Team 1058)
+ 82. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-87, Team 1063)
+ 83. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-87, Team 1064)
+ 84. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-87, Team 1070)
+ 85. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-88, Team 1072)
+ 86. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-88, Team 1078)
+ 87. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-9, Team 1095)
+ 88. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-9, Team 1098)
+ 89. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-93, Team 1132)
+ 90. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-95, Team 1153)
+ 91. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-96, Team 1165)
+ 92. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-98, Team 1184)
+ 93. [Team Formation] Team size 4 differs from expected 5 (Tutorial G-98, Team 1188)
+ 94. [Team Formation] Tutorial G-10: Expected 10 teams, got 11
+ 95. [Team Formation] Tutorial G-101: Expected 10 teams, got 11
+ 96. [Team Formation] Tutorial G-102: Expected 10 teams, got 11
+ 97. [Team Formation] Tutorial G-104: Expected 10 teams, got 11
+ 98. [Team Formation] Tutorial G-107: Expected 10 teams, got 11
+ 99. [Team Formation] Tutorial G-111: Expected 10 teams, got 11
+100. [Team Formation] Tutorial G-113: Expected 10 teams, got 11
+101. [Team Formation] Tutorial G-114: Expected 10 teams, got 11
+102. [Team Formation] Tutorial G-118: Expected 10 teams, got 11
+103. [Team Formation] Tutorial G-119: Expected 10 teams, got 11
+104. [Team Formation] Tutorial G-120: Expected 10 teams, got 11
+105. [Team Formation] Tutorial G-15: Expected 10 teams, got 11
+106. [Team Formation] Tutorial G-23: Expected 10 teams, got 11
+107. [Team Formation] Tutorial G-24: Expected 10 teams, got 11
+108. [Team Formation] Tutorial G-26: Expected 10 teams, got 11
+109. [Team Formation] Tutorial G-29: Expected 10 teams, got 11
+110. [Team Formation] Tutorial G-31: Expected 10 teams, got 11
+111. [Team Formation] Tutorial G-39: Expected 10 teams, got 11
+112. [Team Formation] Tutorial G-41: Expected 10 teams, got 11
+113. [Team Formation] Tutorial G-42: Expected 10 teams, got 11
+114. [Team Formation] Tutorial G-43: Expected 10 teams, got 11
+115. [Team Formation] Tutorial G-44: Expected 10 teams, got 11
+116. [Team Formation] Tutorial G-52: Expected 10 teams, got 11
+117. [Team Formation] Tutorial G-53: Expected 10 teams, got 11
+118. [Team Formation] Tutorial G-55: Expected 10 teams, got 11
+119. [Team Formation] Tutorial G-59: Expected 10 teams, got 11
+120. [Team Formation] Tutorial G-6: Expected 10 teams, got 11
+121. [Team Formation] Tutorial G-61: Expected 10 teams, got 11
+122. [Team Formation] Tutorial G-63: Expected 10 teams, got 11
+123. [Team Formation] Tutorial G-68: Expected 10 teams, got 11
+124. [Team Formation] Tutorial G-7: Expected 10 teams, got 11
+125. [Team Formation] Tutorial G-70: Expected 10 teams, got 11
+126. [Team Formation] Tutorial G-71: Expected 10 teams, got 11
+127. [Team Formation] Tutorial G-72: Expected 10 teams, got 11
+128. [Team Formation] Tutorial G-83: Expected 10 teams, got 11
+129. [Team Formation] Tutorial G-85: Expected 10 teams, got 11
+130. [Team Formation] Tutorial G-86: Expected 10 teams, got 11
+131. [Team Formation] Tutorial G-87: Expected 10 teams, got 11
+132. [Team Formation] Tutorial G-88: Expected 10 teams, got 11
+133. [Team Formation] Tutorial G-9: Expected 10 teams, got 11
+134. [Team Formation] Tutorial G-93: Expected 10 teams, got 11
+135. [Team Formation] Tutorial G-95: Expected 10 teams, got 11
+136. [Team Formation] Tutorial G-96: Expected 10 teams, got 11
+137. [Team Formation] Tutorial G-98: Expected 10 teams, got 11
+138. [Data Quality] CSV not sorted by STEM status: 3795 violation(s)
+
+ℹ️ INFO ISSUES (5):
+----------------------------------------------------------------------
+  1. [Data Quality] Row 7: EEE (STEM) appears after non-STEM schools
+  2. [Data Quality] Row 8: CCDS (STEM) appears after non-STEM schools
+  3. [Data Quality] Row 12: SPMS (STEM) appears after non-STEM schools
+  4. [Data Quality] Row 13: EEE (STEM) appears after non-STEM schools
+  5. [Data Quality] Row 17: EEE (STEM) appears after non-STEM schools
+
+
+

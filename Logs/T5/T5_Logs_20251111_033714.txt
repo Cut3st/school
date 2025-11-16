@@ -1,0 +1,81 @@
+================================================================================
+TEAM VALIDATION LOG
+================================================================================
+Timestamp: 2025-11-11 03:37:14
+CSV File:   C:/Users/User/OneDrive/Documents/GitHub/school/school/FCS1_Team2_Joshua.csv
+Team Size:  5
+Strictness: NIGHTMARE
+Score:      99.9% | Grade: A+ (Excellent)
+Issues:     10 (🚨0/⚠️5/ℹ️5)
+================================================================================
+
+[SUMMARY REPORT]
+--------------------------------------------------------------------------------
+======================================================================
+TEAM ALLOCATION VALIDATION SUMMARY (NIGHTMARE MODE)
+======================================================================
+
+✓ Strictness Level: NIGHTMARE
+✓ Total Issues Found: 10
+
+Total Students: 6000
+Total Teams:    1200
+Expected Size:  5
+
+TEAM SIZE DISTRIBUTION:
+----------------------------------------------------------------------
+✓ Size 5: 1200 teams (100.0%)
+
+======================================================================
+BALANCE SUMMARY
+======================================================================
+
+GENDER BALANCE:
+  ✓ Balanced:   1200 teams (100.0%)
+  ✗ Imbalanced:    0 teams (  0.0%)
+
+SCHOOL DIVERSITY:
+  ✓ Balanced:   1196 teams ( 99.7%)
+  ✗ Imbalanced:    4 teams (  0.3%)
+
+CGPA STATISTICS:
+  Average team mean: 4.089
+  Average team std:  0.098
+  Range: 3.950 to 4.302
+
+======================================================================
+OVERALL QUALITY SCORE
+======================================================================
+
+Gender Balance:     100.0%
+School Diversity:    99.7%
+CGPA Distribution:  100.0%
+----------------------------------------------------------------------
+FINAL SCORE:         99.9%
+GRADE:              A+ (Excellent)
+
+
+[CRITICAL ISSUES REPORT]
+--------------------------------------------------------------------------------
+======================================================================
+ALL ISSUES FOUND (10 total)
+======================================================================
+
+⚠️ WARNING ISSUES (5):
+----------------------------------------------------------------------
+  1. [School Diversity] Tutorial G-118, Team 211: CoB (NBS) has 4/5 members (max: 3)
+  2. [School Diversity] Tutorial G-24, Team 378: CCEB has 4/5 members (max: 3)
+  3. [School Diversity] Tutorial G-75, Team 939: MAE has 4/5 members (max: 3)
+  4. [School Diversity] Tutorial G-99, Team 1197: CCDS has 4/5 members (max: 3)
+  5. [Data Quality] CSV not sorted by STEM status: 3795 violation(s)
+
+ℹ️ INFO ISSUES (5):
+----------------------------------------------------------------------
+  1. [Data Quality] Row 7: CCDS (STEM) appears after non-STEM schools
+  2. [Data Quality] Row 8: CCDS (STEM) appears after non-STEM schools
+  3. [Data Quality] Row 12: CCDS (STEM) appears after non-STEM schools
+  4. [Data Quality] Row 13: EEE (STEM) appears after non-STEM schools
+  5. [Data Quality] Row 17: CCDS (STEM) appears after non-STEM schools
+
+
+
